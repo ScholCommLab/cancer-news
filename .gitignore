@@ -1,7 +1,14 @@
 
 \.Rhistory
+.~lock*
 
 data/formatted/
 data/original/
 
 \.ipynb_checkpoints/
+
+get_altmetrics/ATB/__pycache__/
+
+*.db
+
+get_altmetrics/config\.cnf

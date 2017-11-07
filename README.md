@@ -11,7 +11,10 @@ Scripts needed to reproduce results and download data.
 ## Overview of repository
 
 ### Download your own dataset
+
 While the lates dataset that was used to run analyses is checked in the repository, you will still need to run the download scripts yourself to reproduce the full pipeline + intermediate results.
+
+#### Original data from PubMed
 
 PubMed API is accessed using the *rentrez* package from [rOpenSci](https://ropensci.org/tutorials/rentrez_tutorial/). Head over to `get_pubmed/` and have a look at `main.R`. Data acquisition runs in three steps:
 
@@ -19,7 +22,12 @@ PubMed API is accessed using the *rentrez* package from [rOpenSci](https://ropen
 - Transform data and save as CSV (still containing some JSON fields)
 - Merge files
 
+#### Metrics from Altmetric.com
+
+Run [cancer-news-dataset.py](get_altmetrics/cancer-news-dataset.py) in `get_altmetrics`. Don't forget to install requirements and create your own `config.cnf` with keys based on `default_config.cnf`.
+
 ### Notebooks
+
 Further analyses were conducted in Jupyter Notebooks:
 
 - [`overview.ipynb`](notebooks/overview.ipynb)
@@ -29,17 +37,21 @@ Further analyses were conducted in Jupyter Notebooks:
 - [`export_data.ipynb`](notebooks/export_data.ipynb)
 
     This notebook produces whichever data format is used for the actual statistical analyses. Will probably be tweaked over time according to needs
-    
+
+- [`altmetrics.ipynb`](notebooks/altmetrics.ipynb)
+
+    Takes the gathered data from Altmetric and transforms it. Also provides some stats and plots.
+
 ## Available data (follow links to download)
 
 - [data/full_cancer_data.csv](data/full_cancer_data.csv) is the dataset that was acquired from PubMed incl. some transformations. Contains 2012-2017
 - [data/news_outlets.csv](data/news_outlets.csv) classification of news outlets on Altmetric.com
 - [data/output/](data/output) contains datasets produced by Jupyter Notebooks
-    - [2016_cancer_data.csv](data/output/2016_cancer_data.csv) identical to `full_cancer_data`. restricted to 2016
-    - [2016_mesh_descriptors.csv](data/output/2016_mesh_descriptors.csv) MeSH headings and their occurances in the year 2016
-    - [2016_mesh_qualifiers.csv](data/output/2016_mesh_qualifiers.csv) MeSH qualifiers and their occurances in the year 2016
-    - [2016_with_dummies.csv](data/output/2016_with_dummies.csv) contains selected combinations of MeSH headings and qualifiers coded as dummy variables for the year 2016
-    
+        - [2016_cancer_data.csv](data/output/2016_cancer_data.csv) identical to `full_cancer_data`. restricted to 2016
+        - [2016_mesh_descriptors.csv](data/output/2016_mesh_descriptors.csv) MeSH headings and their occurances in the year 2016
+        - [2016_mesh_qualifiers.csv](data/output/2016_mesh_qualifiers.csv) MeSH qualifiers and their occurances in the year 2016
+        - [2016_with_dummies.csv](data/output/2016_with_dummies.csv) contains selected combinations of MeSH headings and qualifiers coded as dummy variables for the year 2016
+
 ## To-Do
 
 - Be more specific about requirements
