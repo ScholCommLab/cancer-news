@@ -12,3 +12,5 @@ get_altmetrics/ATB/__pycache__/
 *.db
 
 get_altmetrics/config\.cnf
+
+data/
