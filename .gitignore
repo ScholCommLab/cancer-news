@@ -2,15 +2,10 @@
 \.Rhistory
 .~lock*
 
-data/formatted/
-data/original/
+data/
 
 \.ipynb_checkpoints/
 
-get_altmetrics/ATB/__pycache__/
-
 *.db
 
-get_altmetrics/config\.cnf
-
-data/
+download_data/altmetrics/config\.cnf
