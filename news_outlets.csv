@@ -1,0 +1,2806 @@
+altmetric_id,title,country,tiers
+washington_post,"Washington Post",US,tier1
+daily_mail,"Daily Mail",GB,tier1
+the_irish_times,"The Irish Times",IE,tier1
+telegraph_co_uk,Telegraph.co.uk,GB,tier1
+the_economist,"The Economist",GB,tier1
+los_angeles_times,"Los Angeles Times",US,tier1
+associated_press,"Associated Press",US,tier1
+reuters,Reuters,US,tier1
+time_magazine,"TIME Magazine",US,tier1
+chicago_tribune,"Chicago Tribune",US,tier2
+suddeutsche_de,Süddeutsche.de,DE,tier2
+christian_science_monitor,"Christian Science Monitor",US,tier2
+the_independent,"The Independent",GB,tier1
+cbc,CBC,CA,tier1
+the_national_post,"The National Post",CA,tier1
+the_ottawa_citizen,"The Ottawa Citizen",CA,tier2
+the_globe_and_mail,"The Globe and Mail",CA,tier1
+macleans,Macleans,CA,tier1
+ctv_news,"CTV News",CA,tier1
+the_toronto_star,"The Toronto Star",CA,tier2
+science_aaas,Science/AAAS,US,tier1
+new_york_times,"New York Times",US,tier1
+usa_today,"USA Today",US,tier1
+wall_street_journal,"Wall Street Journal",US,tier1
+the_denver_post,"The Denver Post",US,tier2
+fox_news,"FOX News",US,tier1
+abc_news,"ABC News",US,tier1
+cnn_news,"CNN News",US,tier1
+google_news,"Google News",US,tier1
+msnbc,MSNBC,US,tier1
+livescience,LiveScience,US,tier3
+yahoo_news,"Yahoo! News",US,tier1
+houston_chronicle,"Houston Chronicle",US,tier2
+orlando_sentinel,"Orlando Sentinel",US,tier2
+baltimore_sun,"Baltimore Sun",US,tier2
+hartford_courant,"Hartford Courant",US,tier2
+south_florida_sun_sentinel,"South Florida Sun-Sentinel",US,tier2
+new_scientist,"New Scientist",GB,tier1
+npr,NPR,US,tier1
+medical_news_today,"Medical News Today",GB,tier3
+wired_co_uk,Wired.co.uk,GB,tier1
+the_verge,"The Verge",US,tier3
+poynter,Poynter,US,tier3
+national_geographic,"National Geographic",US,tier1
+mit_technology_review,"MIT Technology Review",US,tier2
+aaas,AAAS,US,tier1
+journalists_resource,"Journalist's Resource",US,tier3
+boston_herald,"Boston Herald",US,tier2
+webmd_news,"WebMD News",US,tier3
+metro_uk,"Metro UK",GB,tier2
+sky_news,"Sky News",GB,tier2
+examiner_com,Examiner.com,US,tier2
+san_francisco_chronicle,"San Francisco Chronicle",US,tier1
+boston_com,Boston.com,US,tier1
+medscape,Medscape,US,tier3
+forbes,Forbes,US,tier1
+upi_com,UPI.com,US,tier1
+le_monde,"Le Monde",FR,tier1
+international_business_times,"International Business Times",US,tier2
+the_atlantic,"The Atlantic",US,tier1
+usnews_com,USNews.com,US,tier1
+times_of_india,"Times of India",IN,tier1
+pbs_newshour,PBS,US,tier2
+health_com,Health.com,US,tier3
+the_mirror,"The Mirror",GB,tier2
+cbs_detroit,"CBS Local",US,tier2
+pittsburgh_post_gazette,"Pittsburgh Post-Gazette",US,tier2
+star_tribune,"Star Tribune",US,tier2
+elements,Elements,GB,tier3
+medwirenews,medwireNews,GB,tier3
+the_conversation,"The Conversation",AU,tier2
+pro_physik_de,pro-physik.de,DE,tier3
+materialsviews,"Advanced Science News ",DE,tier3
+chemistryviews,ChemistryViews,DE,tier3
+ecancer,ecancer,GB,tier3
+nature,Nature,GB,tier1
+eurekalert,EurekAlert!,US,tier1
+seedmagazine_com,SEEDMAGAZINE.COM,US,tier3
+american_medical_news,"American Medical News",US,tier3
+cosmos_magazine,"COSMOS magazine",AU,tier3
+mother_jones,"Mother Jones",US,tier2
+physicsworld_com,physicsworld.com,GB,tier3
+popular_science,"Popular Science",US,tier1
+wissenschaft_de,wissenschaft.de,DE,tier3
+elmundo_es,elmundo.es,ES,tier1
+redorbit,redOrbit,US,tier2
+stuff_co_nz,Stuff.co.nz,NZ,tier2
+sydney_morning_herald,"Sydney Morning Herald",AU,tier1
+slate_magazine,"Slate Magazine",US,tier1
+corriere_della_sera,"Corriere della Sera",IT,tier1
+le_figaro,"Le Figaro",FR,tier1
+zeit_online,"ZEIT ONLINE",DE,tier1
+el_pais,"El País",ES,tier1
+spiegel_online,"SPIEGEL ONLINE",DE,tier1
+chemical_engineering_news,"Chemical & Engineering News",US,tier3
+the_scientist_magazine,"The Scientist Magazine",CA,tier3
+ieee_spectrum,"IEEE Spectrum",US,tier3
+chemistry_world,"Chemistry World",GB,tier3
+discover_magazine,"Discover Magazine",US,tier1
+science_news,"Science News",US,tier3
+scientific_american,"Scientific American",US,tier1
+bbc_news,"BBC News",GB,tier1
+the_guardian,"The Guardian",GB,tier1
+science_media_centre,"Science Media Centre",GB,tier3
+natural_environment_research_council_planet_earth_online,"Natural Environment Research Council: Planet Earth Online",GB,tier3
+medical_daily,"Medical Daily",US,tier3
+today,TODAY,US,tier2
+orange_county_register,"Orange County Register",US,tier2
+u_s_news_world_report,"U.S. News & World Report",US,tier1
+usa_weekend,"USA Weekend",US,tier1
+voice_of_america,"Voice of America",US,tier2
+the_daily_beast,"The Daily Beast",US,tier2
+marketwatch,MarketWatch,US,tier3
+statesman_com,Statesman.com,US,tier2
+philly_com,Philly.com,US,tier2
+seattle_post_intelligencer,"Seattle Post-Intelligencer",US,tier2
+new_york_daily_news,"New York Daily News",US,tier2
+the_register,"The Register",GB,tier3
+global_news,"Global News",CA,tier2
+nieman_journalism_lab,"Nieman Journalism Lab",US,tier2
+foreign_affairs,"Foreign Affairs",US,tier3
+the_times,"The Times",GB,tier1
+the_scotsman,"The Scotsman",GB,tier2
+the_express,"The Express",GB,tier2
+metronews_ca,Metronews.ca,CA,tier2
+popular_mechanics,"Popular Mechanics",US,tier1
+news1130,News1130,CA,tier2
+vancouver_observer,"Vancouver Observer",CA,tier2
+canoe_ca,Canoe.ca,CA,tier2
+the_province,"The Province",CA,tier2
+mashable,Mashable,US,tier2
+space_com,Space.com,US,tier3
+herald_sun,"Herald Sun",US,tier2
+the_australian,"The Australian",AU,tier1
+news_com_au,News.com.au,AU,tier2
+courier_mail,"Courier Mail",AU,tier2
+perth_now,"Perth Now",AU,tier2
+the_mercury,"The Mercury",AU,tier2
+abc_net_au,ABC.net.au,AU,tier1
+the_telegraph_australia,"The Telegraph (Australia)",AU,tier2
+the_age,"The Age",AU,tier2
+science_alert_australia_new_zealand,"Science Alert - Australia & New Zealand",AU,tier3
+zee_news_india,"Zee News (India)",IN,tier2
+iol,IOL,ZA,tier2
+toledo_blade,"Toledo Blade",US,tier2
+the_medical_news,"The Medical News",AU,tier3
+yorkshire_post,"Yorkshire Post",GB,tier2
+times_of_malta,"Times of Malta",MT,tier2
+french_tribune,"French Tribune",FR,tier2
+herald_scotland,"Herald Scotland",GB,tier2
+myscience,MyScience,CH,tier3
+medicalxpress,MedicalXpress,GB,tier3
+nea_today,"NEA Today",US,tier3
+education_week,"Education Week",US,tier3
+the_wilson_quarterly,"The Wilson Quarterly",US,tier2
+the_week,"The Week",US,tier2
+newser,Newser,US,tier2
+tampa_bay_times,"Tampa Bay Times",US,tier2
+mother_nature_network,"Mother Nature Network",US,tier3
+winona_daily_news,"Winona Daily News",US,tier2
+sfgate,SFGate,US,tier1
+kgw_com,KGW.com,US,tier2
+nashville_city_paper,"Nashville City Paper",US,tier2
+pacific_standard,"Pacific Standard",US,tier2
+edmonton_journal,"Edmonton Journal",CA,tier2
+montreal_gazette,"Montreal Gazette",CA,tier2
+financial_times,"Financial Times",GB,tier1
+the_sun_uk,"The Sun (UK)",GB,tier1
+xinhua,Xinhua,CN,tier1
+china_daily,"China Daily",CN,tier1
+peoples_daily_china_english,"People's Daily (China - English)",CN,tier1
+la_repubblica,"La Repubblica",IT,tier1
+el_mundo,"El Mundo",ES,tier1
+the_hindu,"The Hindu",IN,tier1
+nikkei,Nikkei,JP,tier1
+asahi_shimbun,"Asahi Shimbun",JP,tier1
+health_service_journal,"Health Service Journal",GB,tier3
+thirdage,ThirdAge,US,tier3
+science_daily,"Science Daily",US,tier3
+mayo_clinic,"Mayo Clinic",US,tier3
+dentistry_iq,"Dentistry IQ",US,tier3
+kget,KGET,US,tier2
+laboratory_journal,"Laboratory Journal",DE,tier3
+nanowerk,Nanowerk,US,tier3
+phys_org,Phys.org,GB,tier3
+c_en,C&EN,US,tier3
+innovations_report,"Innovations Report",DE,tier3
+biome,Biome,GB,tier3
+real_clear_science,"Real Clear Science",US,tier3
+discovery_news,"Discovery News",US,tier1
+psych_central,"Psych Central",US,tier3
+al_jazeera,"Al Jazeera",QA,tier1
+new_statesman,"New Statesman",GB,tier1
+the_spectator,"The Spectator",GB,tier2
+the_raw_story,"The Raw Story",US,tier2
+deutche_welle,"Deutche Welle",DE,tier2
+the_art_newspaper,"The Art Newspaper",GB,tier3
+foreign_policy,"Foreign Policy",US,tier3
+environment_news_service,"Environment News Service",US,tier3
+newswise,Newswise,US,tier4
+ad_hoc_news,"Ad Hoc News",DE,tier2
+news_deutschland,"News Deutschland",DE,tier2
+basler_zeitung,"Basler Zeitung",CH,tier2
+cash,Cash,CH,tier3
+scinexx,Scinexx,DE,tier3
+berner_zeitung,"Berner Zeitung",CH,tier2
+blick,Blick,CH,tier2
+der_bund,"Der Bund",CH,tier2
+le_temps,"Le Temps",CH,tier2
+naturschutz,Naturschutz,CH,tier3
+swiss_info,"Swiss Info",CH,tier2
+tages_anzeiger,"Tages Anzeiger",CH,tier2
+20_minuten,"20 Minuten",CH,tier2
+liechtensteiner_volksblatt,"Liechtensteiner Volksblatt",LI,tier2
+simons_foundation,"Simons Foundation",US,tier3
+inside_climate_news,"Inside Climate News",US,tier3
+lincoln_journal_star,"Lincoln Journal Star",US,tier2
+edge_org,Edge.org,US,tier3
+columbia_journalism_review,"Columbia Journalism Review",US,tier2
+medical_research_council,"Medical Research Council",GB,tier3
+health_canal,"Health Canal",US,tier3
+nhs_choices,"NHS Choices",GB,tier3
+digital_journal,"Digital Journal",CA,tier2
+palm_beach_daily_news,"Palm Beach Daily News",US,tier2
+lactualite,L'actualité,CA,tier2
+london_evening_standard,"London Evening Standard",GB,tier2
+science_2_0,"Science 2.0",US,tier3
+lapresse_ca,Lapresse.ca,CA,tier2
+space_safety_magazine,"Space Safety Magazine",NL,tier3
+earthsky,EarthSky,US,tier3
+der_freitag,"der Freitag",DE,tier2
+24_hours,"24 Hours",CA,tier2
+air_space,"Air & Space",US,tier3
+le_journal_de_montreal,"Le Journal de Montreal",CA,tier2
+frankfurter_allgemeine,"Frankfurter Allgemeine",DE,tier2
+der_standard,"Der Standard",AT,tier2
+world_news_sbs,"World News SBS",AU,tier2
+sciencenordic,ScienceNordic,DK,tier3
+forskning_no,forskning.no,NO,tier3
+asutralian_doctor,"Australian Doctor",AU,tier3
+the_guardian_charlottetown,"The Guardian (Charlottetown)",CA,tier2
+chemieonline,ChemieOnline,DE,tier3
+infection_control_today,"Infection Control Today",US,tier3
+science_newsline,"Science Newsline",JP,tier3
+vaccine_news,"Vaccine News",US,tier3
+ohio_com,"Akron Beacon Journal Online - Ohio.com",US,tier2
+mens_health,"Men's Health",US,tier3
+ivillage,iVillage,US,tier3
+long_island_newsday,"Long Island Newsday",US,tier2
+js_online_milwaukee_wisconsin_journal_sentinel,"JS Online - Milwaukee-Wisconsin Journal Sentinel",US,tier2
+longevity_magazine,"Longevity Magazine",ZA,tier3
+runners_world,"Runner's World",US,tier3
+sci_tech_today,"Sci-Tech Today",US,tier3
+science_fare,"Science Fare",CA,tier3
+laborwelt,Laborwelt,DE,tier3
+potsdamer_neueste_nachrichten,"Potsdamer Neueste Nachrichten",DE,tier2
+science_illustrated,"Science Illustrated",AU,tier3
+the_nation,"The Nation",US,tier2
+bermuda_sun,"Bermuda Sun",BM,tier2
+medpage_today,"MedPage Today",US,tier3
+american_news_report,"American News Report",US,tier2
+the_epoch_times,"The Epoch Times",US,tier2
+the_deseret_news,"The Deseret News",US,tier2
+business_news_daily,"Business News Daily",US,tier3
+quartz,Quartz,US,tier2
+babble,Babble,US,tier3
+arizona_daily_star,"Arizona Daily Star",US,tier2
+business_insider,"Business Insider",US,tier3
+south_coast_today,"South Coast Today",US,tier2
+wcf_courier,"WCF Courier",US,tier2
+itv_news,"ITV News",GB,tier2
+bloomberg_businessweek,"Bloomberg Businessweek",US,tier1
+ultima_hora,"Ultima Hora",ES,tier2
+cornell_chronicle,"Cornell Chronicle",US,tier3
+r_d_csic,"R+D CSIC",ES,tier3
+aeon_magazine,"Aeon Magazine",GB,tier3
+the_wellington_advertiser,"The Wellington Advertiser",CA,tier2
+nbc_news,"NBC News",US,tier1
+ria_novosti,"РИА Новости",RU,tier2
+the_columbian,"The Columbian",US,tier2
+scidevnet,SciDevNet,GB,tier3
+materials_today,"Materials Today",GB,tier3
+north_carolina_health_news,"North Carolina Health News",US,tier3
+panorama,Panorama,AM,tier2
+the_american_scholar,"The American Scholar",US,tier2
+il_post,"Il Post",IT,tier2
+salon,Salon,US,tier1
+le_scienze,"Le Scienze",IT,tier3
+quanta_magazine,"Quanta Magazine",US,tier3
+plus_magazine,"Plus Magazine",GB,tier3
+readers_digest,"Reader's Digest",CA,tier2
+e_science_news,"e! Science News",CA,tier3
+the_inquisitr,"The Inquisitr",US,tier2
+london_review_of_books,"London Review of Books",GB,tier3
+the_new_yorker,"The New Yorker",US,tier1
+u_t_san_diego,"U-T San Diego",US,tier2
+rt,"RT Network",RU,tier2
+doctors_lounge,"Doctors Lounge",US,tier3
+psychiatric_news,"Psychiatric News",US,tier3
+beckers_hospital_review,"Becker's Hospital Review",US,tier3
+beckers_spine_review,"Becker's Spine Review",US,tier3
+beckers_asc_review,"Becker's ASC Review",US,tier3
+mainichi,Mainichi,JP,tier1
+howstuffworks,HowStuffWorks,US,tier3
+cnet,CNET,US,tier3
+volkskrant,Volkskrant,NL,tier2
+scicasts,Scicasts,US,tier3
+footnote,Footnote,US,tier3
+folha_de_s_paulo,"Folha de S. Paulo",BR,tier2
+brasil_de_fato,"Brasil de Fato",BR,tier2
+correio_braziliense,"Correio Braziliense",BR,tier2
+o_dia,"O Dia",BR,tier2
+diario_do_nordeste,"Diário do Nordeste",BR,tier2
+estadao_com_br,Estadao.com.br,BR,tier2
+jornal_pequeno,"Jornal Pequeno",BR,tier2
+jornal_do_brasil,"Jornal do Brasil",BR,tier2
+uol,UOL,BR,tier2
+valeparaibano,Valeparaibano,BR,
+g1,G1,BR,tier2
+brazil_news_net,"Brazil News.net",BR,tier4
+science_world_report,"Science World Report",US,tier3
+photonics_com,Photonics.com,US,tier3
+vision_systems_design,"Vision Systems Design",US,tier3
+new_zealand_herald,"New Zealand Herald",NZ,tier2
+the_dominion_post,"The Dominion Post",NZ,tier4
+the_press,"The Press",NZ,tier2
+otago_daily_times,"Otago Daily Times",NZ,tier2
+el_diario,"El Diario",BO,tier2
+el_deber,"El Deber",BO,tier2
+elsevier_nl,Elsevier.nl,NL,tier2
+nature_world_news,"Nature World News",US,tier3
+newsmoves,NewsMoves,US,tier4
+the_santiago_times,"The Santiago Times",CL,tier2
+latercera,Latercera,CL,tier2
+engadget,Engadget,US,tier3
+gizmodo,Gizmodo,US,tier3
+toronto_sun,"Toronto Sun",CA,tier4
+deccan_chronicle,"Deccan Chronicle",IN,tier2
+nikkan_kogyo,"Nikkan Kogyo",JP,tier3
+kankyo_business,"Kankyo Business",JP,tier3
+science_portal,"Science Portal",JP,tier3
+the_gomutimes_digital,"The Gomutimes Digital",JP,tier3
+itmedia_inc,"ITmedia Inc.",JP,tier3
+yahoo_news_japan,"Yahoo! News Japan",JP,tier2
+3_news,"3 News",NZ,tier2
+the_engineer,"The Engineer",GB,tier3
+propublica,ProPublica,US,tier3
+r_d,R&D,US,tier4
+sinc_servicio_de_informacion_y_noticias_cientificas,"SINC - Servicio de Información y Noticias Científicas",ES,tier3
+dr,DR,DK,tier2
+disaster_news_network,"Disaster News Network",US,tier3
+the_bay_citizen,"The Bay Citizen",US,tier2
+center_for_investigative_reporting,"Reveal - Center for Investigative Reporting",US,tier3
+die_welt,"Die Welt",DE,tier2
+huffington_post,"Huffington Post",US,tier1
+msn,MSN,US,tier1
+focus_online,"FOCUS Online",DE,tier2
+abc_es,ABC.es,ES,tier2
+medlineplus,MedlinePlus,US,tier3
+der_tagesspiegel,"Der Tagesspiegel",DE,tier2
+stern,Stern,DE,tier2
+venturebeat,VentureBeat,US,tier3
+bulletin_of_the_atomic_scientists,"Bulletin of the Atomic Scientists",US,tier3
+onearth,OnEarth,US,tier3
+gulfnews_com,Gulfnews.com,AE,tier2
+canadian_underwriter,"Canadian Underwriter",CA,tier3
+the_republic,"The Republic",US,tier2
+daily_press,"Daily Press",US,tier2
+the_virginia_gazette,"The Virginia Gazette",US,tier2
+tidewater_review,"Tidewater Review",US,tier2
+the_morning_call,"The Morning Call",US,tier2
+the_star_online,"The Star Online",MY,tier2
+the_economic_times,"The Economic Times",IN,tier3
+saudi_press_agency,"Saudi Press Agency",SA,tier2
+climate_desk,"Climate Desk",US,tier3
+the_earth_times,"The Earth Times",GB,tier4
+the_colorado_independent,"The Colorado Independent",US,tier2
+real_aspen,"Real Aspen",US,tier4
+indian_country,"Indian Country",US,tier3
+portland_press_herald,"Portland Press Herald",US,tier2
+news10,News10,US,tier2
+california_watch,"California Watch",US,tier4
+het_laatste_nieuws,"Het Laatste Nieuws",BE,tier2
+het_nieuwsblad,"Het Nieuwsblad",BE,tier2
+gazet_van_antwerpen,"Gazet van Antwerpen",BE,tier2
+het_belang_van_limburg,"Het Belang van Limburg",BE,tier2
+de_standaard,"De Standaard",BE,tier2
+le_soir,"Le Soir",BE,tier2
+la_derniere_heure_la_dh,"La Derniere Heure (La DH)",BE,tier3
+de_morgen,"De Morgen",BE,tier2
+la_libre,"La Libre",BE,tier2
+de_tijd,"De Tijd",BE,tier3
+la_capitale,"La Capitale",BE,tier2
+lecho,L'Echo,BE,tier2
+nord_eclair,"Nord Eclair",BE,tier4
+nieuwsblad,Nieuwsblad,BE,
+grenzecho,Grenzecho,BE,tier2
+la_province,"La Province",BE,tier4
+real_vail,"Real Vail",US,tier4
+concord_monitor,"Concord Monitor",US,tier2
+firstpost,Firstpost,IN,tier2
+drugs_com,Drugs.com,US,tier4
+psychologie_news,"Psychologie News",DE,tier3
+orf_at,ORF.at,AT,tier2
+detroit_free_press,"Detroit Free Press",US,tier2
+homeland_security_news_wire,"Homeland Security News Wire",US,tier3
+cnbc,CNBC,US,tier2
+biooptics_world,"BioOptics World",US,tier3
+diagnostic_and_interventional_cardiology,"Diagnostic and Interventional Cardiology",US,tier3
+gma_news,"GMA News",PH,tier2
+calgary_herald,"Calgary Herald",CA,tier2
+medical_breakthroughs_ivanhoe,"Medical Breakthroughs (Ivanhoe)",US,tier3
+zimbabwe_star,"Zimbabwe Star",ZW,tier2
+top_sante,"Top Santé",FR,tier3
+electronic_products,"Electronic Products",US,tier3
+headlines_global_news,"Headlines & Global News",US,tier4
+biermann_medizin,"Biermann Medizin",DE,tier3
+yahoo_news_india,"Yahoo! News India",IN,tier2
+fanpage,Fanpage,IT,tier2
+the_week_uk,"The Week UK",GB,tier2
+ottawa_sun,"Ottawa Sun",CA,tier4
+winnipeg_sun,"Winnipeg Sun",CA,tier4
+calgary_sun,"Calgary Sun",CA,tier4
+edmonton_sun,"Edmonton Sun",CA,tier4
+publico,Publico,PT,tier2
+diario_de_noticias,"Diário de Notícias",PT,tier2
+o_acoriano_oriental,"O Açoriano Oriental",PT,tier2
+destak,Destak,PT,tier2
+expresso,Expresso,PT,tier2
+sol,Sol,PT,tier2
+a_cabra,"A Cabra",PT,tier4
+diario_as_beiras,"Diário As Beiras",PT,tier2
+the_chronicle_herald,"The Chronicle Herald",CA,tier2
+winnipeg_free_press,"Winnipeg Free Press",CA,tier2
+times_colonist,"Times Colonist",CA,tier2
+london_free_press,"London Free Press",CA,tier4
+the_windsor_star,"The Windsor Star",CA,tier2
+the_star_phoenix,"The Star Phoenix",CA,tier2
+leader_post,"Leader Post",CA,tier2
+de_telegraaf,"De Telegraaf",NL,tier2
+algemeen_dagblad_ad,"Algemeen Dagblad (AD)",NL,tier4
+sp_ts,Sp!ts,NL,tier4
+nrc_handelsblad,"NRC Handelsblad",NL,tier2
+trouw,Trouw,NL,tier2
+parool,Parool,NL,tier2
+het_financieele_dagblad,"Het Financieele Dagblad",NL,tier3
+nederlands_dagblad,"Nederlands Dagblad",NL,tier2
+conservation_magazine,"Conservation Magazine",US,tier3
+the_gulf_today,"The Gulf Today",AE,tier2
+knoxville_news,"Knoxville News",US,tier2
+the_sacramento_bee,"The Sacramento Bee",US,tier2
+journal_and_courier,"Lafayette Journal and Courier",US,tier2
+palo_alto_online,"Palo Alto Online",US,tier2
+world_magazine,"World Magazine",US,tier3
+coventry_telegraph,"Coventry Telegraph",GB,tier2
+health24,Health24,ZA,tier4
+the_new_york_observer,"The New York Observer",US,tier2
+betabeat_new_york_observer,"Betabeat (New York Observer)",US,tier3
+infobae,infobae,AR,tier2
+asia_pacific_daily,"Asia Pacific Daily",CN,tier4
+spie_newsroom,"SPIE Newsroom",US,tier3
+24_horas,"24 Horas",MX,tier2
+un1on_jalisco,"UN1ÓN | Jalisco",MX,tier2
+veja,Veja,BR,tier2
+focus_it,Focus.it,IT,tier2
+correio_24_horas,"Correio 24 Horas",BR,tier2
+diario_do_grande_abc,"Diário do Grande ABC",BR,tier2
+el_dinamo,"El Dínamo",CL,tier4
+ig,"iG (Brazil)",BR,tier2
+yahoo_news_brazil,"Yahoo! News Brazil",BR,tier2
+aol,AOL,US,tier2
+global_times_china,"Global Times (China)",CN,tier2
+geelong_advertiser,"Geelong Advertiser",AU,tier2
+newsweek,Newsweek,US,tier1
+chicago_sun_times,"Chicago Sun-Times",US,tier1
+frankfurter_rundschau,"Frankfurter Rundschau",DE,tier2
+die_tageszeitung,"Die Tageszeitung ",DE,tier2
+rheinische_post,"Rheinische Post",DE,tier2
+handelsblatt,Handelsblatt,DE,tier2
+wirtschaftswoche,Wirtschaftswoche,DE,tier3
+die_presse,"Die Presse",AT,tier2
+neue_zuricher_zeitung_nzz,"Neue Züricher Zeitung (NZZ)",CH,tier2
+the_jakarta_globe,"The Jakarta Globe",ID,tier2
+business_standard,"Business Standard",IN,tier3
+moneycontrol_com,Moneycontrol.com,IN,tier3
+articolotre,ArticoloTre,IT,tier4
+urbanpost,UrbanPost,IT,tier2
+environmental_news_network,"Environmental News Network",US,tier3
+daily_news_analysis_dna,"Daily News & Analysis (dna)",IN,tier2
+cancer_research_uk,"Cancer Research UK",GB,tier3
+the_asco_post,"The ASCO Post",US,tier3
+ubm_medica,"UBM Medica",US,tier3
+health_imaging,"Health Imaging",US,tier3
+technology_org,Technology.org,US,tier3
+azfamily_com,azfamily.com,US,tier2
+arizona_public_media,"Arizona Public Media",US,tier2
+the_vancouver_sun,"The Vancouver Sun",CA,tier2
+nosotros,Nosotros,MX,tier4
+cbs_news,"CBS News",US,tier2
+las_vegas_guardian_express,"Guardian Liberty Voice",US,tier2
+audubon_magazine,"Audubon Magazine",US,tier3
+astrobiology_magazine,"Astrobiology Magazine",US,tier3
+the_nation_pakistan,"The Nation (Pakistan)",PK,tier2
+the_asian_age,"The Asian Age",IN,tier2
+authint_mail,"Authint Mail",IN,tier2
+sg_hu,sg.hu,HU,tier3
+24sata,24sata,HR,tier4
+chemical_watch_news,"Chemical Watch News",GB,tier3
+okezone_indonesia,"Okezone Indonesia",ID,tier2
+blic_online,"Blic Online",RS,tier2
+hannoversche_allgemeine,"Hannoversche Allgemeine",DE,tier2
+gazeta_ru,Gazeta.ru,RU,tier2
+svd,SvD,SE,tier2
+voxy_co_nz,Voxy.co.nz,NZ,tier2
+scoop,Scoop,NZ,tier4
+parent_herald,"Parent Herald",US,tier3
+north_queensland_register,"North Queensland Register",AU,tier4
+the_free_press_journal,"The Freepress Journal",IN,tier2
+canadian_business,"Canadian Business",CA,tier3
+environmental_health_news,"Environmental Health News",US,tier3
+today_singapore,"TODAY (Singapore)",SG,tier2
+channel_newsasia,"Channel NewsAsia",SG,tier2
+the_straits_times,"The Straits Times",SG,tier2
+health,Health,US,tier3
+cleveland_com,Cleveland.com,US,tier2
+newsmax_health,"Newsmax Health",US,tier4
+fox_8_cleveland,"Fox 8 Cleveland",US,tier2
+health_on_india_com,"Health on India.com",IN,tier3
+vogue,Vogue,US,tier1
+mit_sloan_management_review,"MIT Sloan Management Review",US,tier3
+experience_life,"Experience Life",US,tier3
+smartplanet,SmartPlanet,US,tier3
+wirtschafts_woche,"Wirtschafts Woche",DE,tier3
+lifehacker,Lifehacker,US,tier3
+laphams_quarterly,"Lapham's Quarterly",US,tier3
+orion_magazine,"Orion Magazine",US,tier3
+laboratory_news,"Laboratory News",GB,tier3
+harlow_star,"Harlow Star",GB,tier2
+the_canton_rep,"The CantonRep",US,tier2
+san_jose_mercury,"San Jose Mercury",US,tier2
+the_columbus_dispatch,"The Columbus Dispatch",US,tier2
+reason,Reason,US,tier3
+the_malay_mail_online,"The Malay Mail Online",MY,tier2
+emirates_24_7,"Emirates 24/7",AE,tier2
+las_vegas_review_journal,"Las Vegas Review-Journal",US,tier2
+laser_focus_world,"Laser Focus World",US,tier3
+kpbs,KPBS,US,tier2
+the_german_cancer_research_center_deutsches_krebsforschungszentrum_dkfz,"Deutsches Krebsforschungszentrum",DE,tier3
+pulse,Pulse,GB,tier3
+womens_health,"Women's Health",US,tier3
+smithsonian_magazine,"Smithsonian Magazine",US,tier3
+alarabiya_net,AlArabiya.net,AE,tier2
+wiener_zeitung,"Wiener Zeitung",AT,tier2
+technobahn,Technobahn,US,tier3
+alphagalileo,AlphaGalileo,GB,tier3
+times_higher_education,"Times Higher Education",GB,tier3
+nursing_times,"Nursing Times",GB,tier3
+imaging_and_machine_vision_europe,"Imaging and Machine Vision Europe",GB,tier3
+minnpost,MinnPost,US,tier2
+daily_nation_kenya,"Daily Nation (Kenya)",KE,tier2
+futura_sciences,Futura-Sciences,FR,tier3
+mpr,MPR,US,tier3
+le_point,"Le Point",FR,tier2
+lexpress,L'Express,FR,tier2
+basellandschaftliche_zeitung,"Basellandschaftliche Zeitung",CH,tier2
+terra_spain,"Terra (Spain)",ES,tier2
+rtbf,RTBF,BE,tier2
+neue_zurcher_zeitung,"Neue Zürcher Zeitung",CH,tier2
+crikey,Crikey,AU,tier2
+complex,Complex,US,tier2
+htxt_africa,htxt.africa,ZA,tier3
+industrial_safety_and_security_source,"Industrial Safety and Security Source",US,tier3
+spin,Spin,US,tier3
+international_science_times,"International Science Times",US,tier3
+ansa_it,ANSA.it,IT,tier2
+livedoor,Livedoor,JP,tier2
+ingenieur_de,Ingenieur.de,DE,tier3
+mta_dialog,"MTA Dialog",DE,tier3
+irish_examiner,"Irish Examiner",IE,tier2
+el_confidencial,"El Confidencial",ES,tier2
+e_t_magazine,"E&T Magazine",GB,tier3
+radio_canada_international,"Radio Canada International",CA,tier2
+mosaic,Mosaic,GB,tier3
+nj_com,NJ.com,US,tier2
+the_tyee,"The Tyee",CA,tier2
+multiple_sclerosis_discovery_forum,"Multiple Sclerosis Discovery Forum",US,tier3
+pain_research_forum,"Pain Research Forum",US,tier3
+europe1,Europe1,FR,tier2
+nautilus,Nautilus,US,tier3
+france_bleu,"France Bleu",FR,tier2
+francetv_info,"FranceTV Info",FR,tier2
+france_inter,"France Inter",FR,tier2
+esquire,Esquire,US,tier1
+ici_radio_canada_ca,ICI.Radio-Canada.ca,CA,tier2
+le_parisien,"Le Parisien",FR,tier2
+la_croix,"La Croix",FR,tier2
+agi_it,AGI.it,IT,tier2
+insight_crime,"InSight Crime",CO,tier3
+holyrood,Holyrood,GB,tier2
+cambridge_news,"Cambridge News",GB,tier2
+stv_news,"STV News",GB,tier2
+thomson_reuters_foundation,"Thomson Reuters Foundation",GB,tier1
+nbc29,NBC29,US,tier2
+newsplex_com,Newsplex.com,US,tier2
+tv2_dk,tv2.dk,DK,tier2
+il_foglio,"Il Foglio",IT,tier4
+jyllands_posten,"Jyllands Posten",DK,tier2
+berlingske_tidende,"Berlingske Tidende",DK,tier2
+politiken,Politiken,DK,tier2
+videnskab_dk,Videnskab.dk,DK,tier3
+maritime_danmark,"Maritime Danmark",DK,tier4
+illustreret_videnskab,"Illustreret Videnskab",DK,tier3
+nrk,NRK,NO,tier2
+aftenposten,Aftenposten,NO,tier2
+dagbladet,Dagbladet,NO,tier2
+aftonbladet,Aftonbladet,SE,tier4
+dn_se,DN.se,SE,tier2
+svt,SVT,SE,tier2
+information,Information,DK,tier2
+wissenschaft_aktuell,"Wissenschaft Aktuell",DE,tier3
+scienceticker,Scienceticker,DE,tier3
+osterreich24,Österreich24,AT,tier2
+krone_zeitung,"Krone Zeitung",AT,tier2
+heute,Heute,AT,tier4
+kurier,Kurier,AT,tier2
+kleine_zeitung,"Kleine Zeitung",AT,tier2
+dagen,Dagen,SE,tier2
+expressen,Expressen,SE,tier4
+imerisia,imerisia,GR,tier2
+ethnos,Ethnos,GR,tier2
+kbs,KBS,KR,tier2
+chosun,Chosun,KR,tier2
+korean_herald,"Korean Herald",KR,tier2
+morgunbladid,Morgunbladid,IS,tier2
+ruv_frettir,"RUV Frettir",IS,tier2
+vetenskap,Vetenskap,SE,tier3
+dagens_medicin,"Dagens Medicin",SE,tier3
+aktuellt_om_vetenskap_halsa,"Aktuellt om vetenskap & hälsa",SE,tier3
+free_i_news,"Free I News",US,tier4
+tg_daily,"TG Daily",US,tier3
+chipdesignmag,Chipdesignmag,US,tier3
+daily_democrat,"Daily Democrat",US,tier4
+scitech_daily,"Scitech Daily",NZ,tier3
+cerveau_psycho_france,"Cerveau & Psycho (France)",FR,tier3
+internet_magazin,"Internet Magazin",DE,tier3
+machineslikeus,Machineslikeus,US,tier3
+great_lakes_echo,"Great Lakes Echo",US,tier4
+segye,Segye,KR,tier2
+etnews,Etnews,KR,tier2
+newstown,Newstown,KR,tier4
+ajunews,Ajunews,KR,tier1
+mk_news,"MK News",KR,tier2
+donga,Donga,KR,tier2
+hamburger_abendblatt,"Hamburger Abendblatt",DE,tier2
+pansci,Pansci,TW,tier3
+jpnn,JPNN,ID,tier2
+australasian_science,"Australasian Science",AU,tier3
+genomeweb,Genomeweb,US,tier3
+arstechnica,Arstechnica,US,tier3
+science_today,"Science Today",US,tier3
+the_anthropocene_review,"The Anthropocene Review",US,tier3
+taipei_times,"Taipei Times",TW,tier2
+focus_taiwan,"Focus Taiwan",TW,tier2
+leipziger_volkzeitung,"Leipziger Volkzeitung",DE,tier2
+ansa,Ansa,IT,tier2
+il_sole_24_ore,"Il Sole 24 ORE",IT,tier2
+panorama_it,Panorama.it,IT,tier2
+galileonet,Galileonet,IT,tier3
+tiscali,Tiscali,IT,tier3
+cio_com,Cio.com,US,tier3
+bioscholar,Bioscholar,IN,tier3
+gen,GEN,US,tier3
+azonano,Azonano,GB,tier4
+computer_world,"Computer World",GB,tier3
+techworld,Techworld,AU,tier3
+guardian_liberty_voice,"Guardian Liberty Voice Dup",US,tier4
+manila_bulletin,"Manila Bulletin",PH,tier2
+nowy_dzennik,"Nowy Dzennik",PL,tier2
+wiadomosci,Wiadomosci,PL,tier2
+renal_urology_news,"Renal & Urology News",US,tier4
+medicinenet,Medicinenet,US,tier3
+plein_jour_de_baie_comeau,"Plein Jour de Baie-Comeau",CA,tier4
+polska_times,"Polska Times",PL,tier2
+tvn_24,"TVN 24",PL,tier2
+wprost,WPROST,PL,tier2
+ynetnews,YNetNews,IL,tier4
+arutz_sheva,"Arutz Sheva",IL,tier2
+hareetz,"Hareetz ",IL,tier2
+jerusalem_post,"Jerusalem Post",IL,tier2
+asiaone,AsiaOne,SG,tier2
+hurriyet,Hürriyet,TR,tier2
+posta,Posta,TR,tier2
+zaman,Zaman,TR,tier2
+il_messaggero,"Il Messaggero",IT,tier2
+daily_tribune,"Daily Tribune",BH,tier2
+khaleej_times,"Khaleej Times",AE,tier2
+gulf_daily_news,"Gulf Daily News",BH,tier2
+nhk,NHK,JP,tier1
+tokyo_weekender,"Tokyo Weekender",JP,tier4
+caracol,Caracol,CO,tier2
+rcn,RCN,CO,tier2
+el_espectador,"El Espectador",CO,tier2
+el_pais_colombia,"El País (Colombia)",CO,tier1
+el_universal,"El Universal",CO,tier2
+el_colombiano,"El Colombiano",CO,tier2
+el_diario_de_hoy,"El Diario de Hoy",SV,tier2
+la_republica_peru,"La Republica (Peru)",PE,tier2
+clarin,Clarín,AR,tier2
+la_tercera,"La Tercera",CL,tier2
+el_mercurio,"El Mercurio",CL,tier2
+el_informador,"El Informador",VE,tier2
+el_universal_venezuela,"El Universal (Venezuela)",VE,tier2
+bild,BIld,DE,tier4
+le_nouvel_observateur,"Le Nouvel Observateur",FR,tier2
+sciences_et_avenir,"Sciences et Avenir",FR,tier3
+le_devoir,"Le Devoir",FR,tier2
+kathemerini,Kathemerini,GR,tier2
+to_vima,"To Vima",GR,tier2
+ta_nea,"Ta Nea",GR,tier2
+pro_thema,"Proto Thema",GR,tier2
+independent_ie,Independent.ie,IE,tier2
+jersey_tribune,"Jersey Tribune",US,tier4
+daily_news,"Daily News",US,tier4
+jackson_hole_news_guide,"Jackson Hole News & Guide",US,tier4
+chaffee_county_times,"Chaffee County Times",US,tier4
+the_hamilton_spectator,"The Hamilton Spectator",CA,tier4
+nanotech_etc,"Nanotech etc",US,tier3
+nephrology_news_and_issues,"Nephrology News and Issues",US,tier3
+internal_medicine_news,"Internal Medicine News",US,tier3
+md_connects,"MD Connects",US,tier3
+portal_da_dialise,"Portal da Diàlise",PT,tier3
+noticias_ao_minuto,"Notìcias ao Minuto",PT,tier2
+boas_noticias,"Boas Notìcias",PT,tier2
+jornal_i,"Jornal I",PT,tier2
+diario_digital,"Diàrio Digital",PT,tier2
+saude,Saùde,PT,tier3
+journal_da_madeira,"Journal da Madeira",PT,tier4
+ebc,EBC,BR,tier1
+a_tarde,"A Tarde",BR,tier2
+la_stampa,"La Stampa",IT,tier2
+scienza_e_salute,"Scienza e Salute",IT,tier3
+alcer_org,Alcer.org,ES,tier3
+journal_de_noticias_mz,"Journal de Notìcias (MZ)",MZ,tier2
+la_nacion,"La Nacion",AR,tier2
+revista_mercado,"Revista Mercado",AR,tier2
+the_nassau_guardian,"The Nassau Guardian",BS,tier2
+the_tribune_bah,"The Tribune (BAH)",BS,tier2
+ani_news,"ANI News",IN,tier2
+ianslive,"IANS Live",IN,tier2
+the_indian_express,"The Indian Express",IN,tier2
+the_oman_observer,"The Oman Observer",OM,tier2
+canindia,CanIndia,CA,tier4
+the_financial_express_ind,"The Financial Express (IND)",IN,tier2
+nation_news_barbados,"Nation News Barbados",BB,tier2
+amandala,Amandala,BZ,tier2
+the_reporter_bz,"The Reporter (BZ)",BZ,tier2
+love_fm_bz,"Love FM (BZ)",BZ,tier4
+channel_5_news_bz,"Channel 5 News (BZ)",BZ,tier2
+los_tiempos,"Los Tiempos",BO,tier2
+la_razon,"La Razòn",BO,tier2
+la_nacion_chile,"La Naciòn (Chile)",CL,tier2
+cooperativa,Cooperativa,CL,tier2
+que_pasa,"Què Pasa",CL,tier2
+el_tiempo,"El Tiempo",CO,tier2
+el_nuevo_siglio,"El Nuevo Siglio",CO,tier2
+radio_santa_fe,"Radio Santa Fe",CO,tier2
+la_nacion_costa_rica,"La Naciòn (Costa Rica)",CR,tier2
+teletica_costa_rica,"Teletica (Costa Rica)",CR,tier2
+hoy_ecu,"Hoy (ECU)",EC,tier2
+la_hora_ecu,"La Hora (ECU)",EC,tier2
+el_telegrafo,"El Telègrafo",EC,tier2
+la_prensa_grafica,"La Prensa Grafica",SV,tier2
+el_mundo_slv,"El Mundo (SLV)",SV,tier2
+el_periodico_gua,"El Periodico (GUA)",GT,tier2
+guyana_chronicle,"Guyana Chronicle",GY,tier2
+stabroek_news,"Stabroek News",GY,tier2
+kaieteur_news,"Kaieteur News",GY,tier2
+ncn_guyana,"NCN Guyana",GY,tier2
+diario_el_heraldo,"Diario el Heraldo",HN,tier2
+la_prensa_hon,"La Prensa (HON)",HN,tier2
+radio_america_hon,"Radio Amèrica (HON)",HN,tier2
+the_gleaner,"The Gleaner",JM,tier2
+the_jamaica_star,"The Jamaica Star",JM,tier4
+jamaice_oberserver,"Jamaice Oberserver",JM,tier2
+rjr_news,"RJR News",JM,tier2
+excelsior,Excelsior,MX,tier2
+la_jornada_mex,"La Jornada (MEX)",MX,tier2
+el_nuevo_diario_nic,"El Nuevo Diario (NIC)",NI,tier2
+confidencial_nic,"Confidencial (NIC)",NI,tier2
+la_prensa_pan,"La Prensa (PAN)",PA,tier2
+la_estrella_de_panama,"La Estrella de Panama",PA,tier2
+critica_pan,"Critica (PAN)",PA,tier4
+telemetro_pan,"Telemetro (PAN)",PA,tier2
+rpctv_panama,"RPCTV Panama",PA,tier2
+vistazo,Vistazo,PA,tier2
+abc_color_par,"ABC Color (PAR)",PY,tier2
+la_nacion_par,"La Nacion (PAR)",PY,tier2
+ultima_hora_par,"Ultima Hora (PAR)",PY,tier2
+el_comercio,"El Comercio",PE,tier2
+gestion,Gestion,PE,tier2
+ojo,Ojo,PE,tier2
+rpp,RPP,PE,tier2
+hoy_do,"Hoy (DO)",DO,tier2
+listin_diario,"Listin Diario",DO,tier2
+el_nacional_do,"El Nacional (DO)",DO,tier2
+de_ware_tijd,"De Ware Tijd",SR,tier2
+atv_sr,"ATV (SR)",SR,tier2
+a_pintie,"A Pintie",SR,tier2
+newsday_tt,"Newsday (TT)",TT,tier2
+the_trinidad_guardian,"The Trinidad Guardian",TT,tier2
+trinidad_express,"Trinidad Express",TT,tier2
+el_observador_uru,"El Observador (URU)",UY,tier2
+teledoce,Teledoce,UY,tier2
+espectador_uru,"Espectador (URU)",UY,tier2
+ultimas_noticias,"Ultimas Noticias",VE,tier2
+bioportfolio,Bioportfolio,GB,tier3
+world_news_network,"World News Network",GB,tier2
+inter_press_service,"Inter Press Service",IT,tier2
+allafrica,AllAfrica,US,tier2
+irin,IRIN,KE,tier2
+africa_science_news,"Africa Science News",KE,tier3
+daily_ft,"Daily FT",LK,tier2
+business_daily_africa,"Business Daily Africa",KE,tier2
+the_courier_mail_aus,"The Courier Mail (AUS)",AU,tier2
+emaxhealth_com,Emaxhealth.com,US,tier3
+zaikei,Zaikei,JP,tier2
+viet_bao,"Viet Bao",VN,tier2
+the_satellite_aus,"The Satellite (AUS)",AU,tier4
+fraser_coast_chronicle,"Fraser Coast Chronicle",AU,tier4
+the_toowoomba_chronicle,"The Toowoomba Chronicle ",AU,tier4
+sunshine_coast_daily,"Sunshine Coast Daily",AU,tier2
+the_gladstone_observer,"The Gladstone Observer",AU,tier4
+affaritaliani_it,Affaritaliani.it,IT,tier2
+kopalnia_wiedzy,"Kopalnia Wiedzy",PL,tier3
+device_space,"Device Space",US,tier3
+hispanic_business,"Hispanic Business",US,tier4
+the_economic_observer_chn,"The Economic Observer (CHN)",CN,tier2
+caixin,"Caixin ",CN,tier2
+ta_kung_pao_hong_kong,"Ta Kung Pao (Hong Kong)",CN,tier2
+china_org,China.org,CN,tier2
+sciencenet_chn,"Sciencenet (CHN)",CN,tier3
+the_hindustan_times,"The Hindustan Times",IN,tier2
+the_deccan_herald,"The Deccan Herald",IN,tier2
+dainik_jagran,"Dainik Jagran",IN,tier2
+dainik_bhaskar,"Dainik Bhaskar",IN,tier2
+malayala_manorama,"Malayala Manorama",IN,tier2
+the_telegraph_india,"The Telegraph (india)",IN,tier2
+the_new_indian_express,"The New Indian Express",IN,tier2
+enerzine,Enerzine,FR,tier3
+le_populaire,"Le Populaire",FR,tier4
+aamulethi,Aamulethi,FI,tier2
+etela_suomen_sanomat,"Etelä-Suomen Sanomat",FI,tier2
+helsingin_sanomat,"Helsingin Sanomat",FI,tier2
+kaleva,Kaleva,FI,tier2
+kauppalehti,Kauppalehti,FI,tier2
+kp24,KP24,FI,tier2
+kotimaa24,Kotimaa24,FI,tier2
+maaseudun_tulevalsuus,"Maaseudun Tulevalsuus",FI,tier2
+medindia,Medindia,IN,tier3
+vancouver_verdesi,"Vancouver Verdesi",CA,tier4
+scienza_e_farmici,"Scienza e Farmici",IT,tier3
+health_of_ukraine_medical_portal,"Health of Ukraine Medical Portal",UA,tier3
+chemrar,Chemrar,RU,tier3
+health_mail_russia,"Health Mail Russia",RU,tier3
+the_queensland_times,"The Queensland Times",AU,tier2
+the_rockhampton_morning_bulletin,"The Rockhampton Morning Bulletin",AU,tier4
+8_news_now,"8 News Now",US,tier4
+6_minutes,"6 Minutes",AU,tier3
+the_new_zealand_herald,"The New Zealand Herald",NZ,tier2
+svalbardposten,Svalbardposten,NO,tier2
+sermitsiaq,Sermitsiaq,GL,tier2
+action_news_now,"Action News Now",US,tier4
+brisbane_time,"Brisbane Times",AU,tier2
+western_australia_today,"Western Australia Today",AU,tier2
+the_canberra_times,"The Canberra Times",AU,tier2
+tribunnews_com,Tribunnews.com,ID,tier4
+nutrition_insight,"Nutrition Insight",NL,tier3
+the_european_physical_journal,"The European Physical Journal ",IT,tier3
+svensk_press,"Svensk Press",SE,tier4
+environmental_research_web,"Environmental Research Web",GB,tier3
+la_vanguardia,"La Vanguardia",ES,tier2
+la_razon_esp,"La Razon (ESP)",ES,tier2
+meracei,Meracei,ES,tier3
+muy_interesante,"Muy Interesante",ES,tier3
+gr_reporter,"GR Reporter",GR,tier2
+arthritis_research_uk,"Arthritis Research UK",GB,tier4
+mining_australia,"Mining Australia",AU,tier3
+mineweb_com,Mineweb.com,AU,tier3
+el_nuevo_herald_us,"El Nuevo Herald (US)",US,tier2
+comunicarse,ComunicaRSE,AR,tier2
+diario_libre_dom,"Diario Libre (DOM)",DO,tier2
+entornio_inteligente,"Entornio Inteligente",CO,tier2
+weau_com,WEAU.com,US,tier4
+adelaide_now,"Adelaide Now",AU,tier2
+the_herald_sun_aus,"The Herald Sun (AUS)",AU,tier2
+nt_news,"NT News",AU,tier2
+sci_news,Sci-News,US,tier3
+kyodo_news,"Kyodo News",JP,tier1
+weser_kurier,"Weser Kurier",DE,tier2
+counsel_heal,"Counsel & Heal ",US,tier3
+science_orf_at,Science.orf.at,AT,tier3
+noticias_de_coimbra,"Noticias de Coimbra",PT,tier2
+bangkok_post,"Bangkok Post",TH,tier2
+earthsky_org,Earthsky.org,US,tier3
+informationsdienst_wissenschaft,"Informationsdienst Wissenschaft",DE,tier2
+medizin_aspekte,"Medizin Aspekte",DE,tier3
+tv21,TV21,AT,tier2
+ulm_news,"Ulm News",DE,tier4
+bionity,Bionity,DE,tier3
+analytica_world,"Analytica World",DE,tier3
+sterne_und_weltraum,"Sterne und Weltraum",DE,tier3
+spektrum,Spektrum,DE,tier2
+espace_sciences,"Espace Sciences",FR,tier3
+rtl,RTL,BE,tier2
+diario_de_pernambuco,"Diario de Pernambuco",BR,tier2
+geneticstimes,Geneticstimes,US,tier3
+aqua_chile,"Aqua (Chile)",CL,tier2
+aquavitro,Aquavitro,RU,tier3
+el_periodoco_de_tucuman,"El Periodoco de Tucuman",AR,tier2
+nigerian_tribune,"Nigerian Tribune",NG,tier2
+the_namibian,"The Namibian",NA,tier2
+vanguard_news_nigeria,"Vanguard News (Nigeria)",NG,tier2
+le_quotidien_du_medicin,"Le Quotidien du Medicin",FR,tier2
+suomen_kuvalehti,"Suomen Kuvalehti",FI,tier2
+iltalehti,Iltalehti,FI,tier4
+ilta_sanomat,"Ilta Sanomat",FI,tier2
+turun_sanomat,"Turun Sanomat",FI,tier2
+yle_fi,Yle.fi,FI,tier2
+oxford_mail,"Oxford Mail",GB,tier2
+austrian_tribune,"Austrian Tribune",AT,tier2
+the_voice_of_russia,"The Voice of Russia",RU,tier2
+the_evening_telegraph,"The Evening Telegraph",GB,tier4
+laporan_penelitian,"Laporan Penelitian",ID,tier3
+wall_street_journal_turkey,"Wall Street Journal (Turkey)",TR,tier2
+dagens_dk,Dagens.dk,DK,tier2
+eater_com,Eater.com,US,tier3
+health_medicinet,"Health Medicinet",US,tier3
+design_trend,"Design & Trend",US,tier3
+big_news_network,"Big News Network",AU,tier2
+jokpeme,Jokpeme,NG,tier4
+bernama,Bernama,MY,tier2
+newstalkzb,NewstalkZB,NZ,tier2
+yeastgenome_org,Yeastgenome.org,US,tier3
+vice,Vice,US,tier1
+globalresearcg,Globalresearch,CA,tier4
+de_wereld_morgen,"De Wereld Morgen",BE,tier4
+bdnews24,bdnews24,BD,tier2
+kenh14,Kenh14,VN,tier2
+ibn_news,"IBN News",IN,tier2
+the_morning_cable,"The Morning Cable",IN,tier4
+mid_day_com,Mid-Day.com,IN,tier2
+medcity_news,"Medcity News",US,tier3
+untv_news,"UNTV News",PH,tier2
+voice_of_asia,"Voice Of Asia",US,tier2
+radio_pakistan,"Radio Pakistan",PK,tier2
+the_malaysian_insider,"The Malaysian Insider",MY,tier2
+top_news,"Top News",US,tier4
+onlymyhealth_com,Onlymyhealth.com,IN,tier3
+azom_com,Azom.com,GB,tier3
+nanotechnology_now,"Nanotechnology Now",US,tier3
+la_gazette_du_laboratorie,"La Gazette du Laboratorie",FR,tier3
+new_york_magazine,"New York Magazine",US,tier2
+healio_com,Healio.com,US,tier3
+biznews_com,BizNews.com,ZA,tier4
+deutsches_arzteblatt,"Deutsches Ärzteblatt",DE,tier3
+planet_tech_news,"Planet Tech News",US,tier3
+the_inquirer,"The Inquirer",US,tier3
+tech_times,"Tech Times",US,tier3
+ingenioren,Ingeniøren,DK,tier3
+wisconsin_state_journal,"Wisconsin State Journal",US,tier2
+ceske_noviny,"Ceske Noviny",CZ,tier2
+prague_post,"Prague Post",CZ,tier2
+radio_praha,"Radio Praha",CZ,tier2
+the_daily_cz,"The Daily.cz",CZ,tier2
+nine_o_clock,"Nine O' Clock",RO,tier2
+romania_insider,"Romania Insider",RO,tier2
+blic,Blic,ME,tier2
+vijesti,Vijesti,ME,tier2
+pobjeda,Pobjeda,ME,tier2
+politika_serbia,"Politika (Serbia)",RS,tier2
+danas,Danas,RS,tier2
+24_chasa,"24 Chasa",BG,tier2
+capital_bulgaria,"Capital (Bulgaria)",BG,tier2
+trud,Trud,BG,tier2
+the_irish_daily_star,"The Irish Daily Star",IE,tier4
+tehran_times,"Tehran Times",IR,tier2
+liverpool_echo,"Liverpool Echo",GB,tier2
+abc_nyheter,"ABC Nyheter",NO,tier2
+e24,E24,NO,tier2
+dagens_naeringsliv,"Dagens Næringsliv",NO,tier3
+hegnar_no,Hegnar.no,NO,tier2
+the_citizen_tz,"The Citizen (TZ)",TZ,tier2
+luxembourger_wort,"Luxembourger Wort",LU,tier2
+avisen_dk,Avisen.dk,DK,tier4
+180grader_dk,180grader.dk,DK,tier2
+al_jazeera_america,"Al Jazeera America",US,tier2
+the_sudbury_star,"The Sudbury Star",CA,tier4
+fishens,Fishens,US,tier3
+environmental_monitor,"Environmental Monitor",US,tier3
+n_tv,N-TV,DE,tier2
+heise,Heise,DE,tier2
+merdaka,Merdaka,ID,tier2
+berita_satu,"Berita Satu",ID,tier2
+abp_india,"ABP (India)",IN,tier2
+iafrica,iAfrica,ZA,tier2
+the_new_age_za,"The New Age (ZA)",ZA,tier2
+physicstoday,Physicstoday,US,tier3
+the_sudan_tribune,"The Sudan Tribune",SD,tier2
+southsudannation_com,Southsudannation.com,SS,tier4
+daily_news_egypt,"Daily News Egypt",EG,tier2
+bukedde_online,"Bukedde Online",UG,tier2
+lainformacion_com,"Lainformacion.com ",ES,tier2
+el_boletin,"El Boletin",ES,tier2
+teinteresa,Teinteresa,ES,tier2
+ibercampus,Ibercampus,ES,tier2
+the_university_herald,"The University Herald",US,tier3
+biosciencetechnology,BioscienceTechnology,US,tier3
+business_balla,"Business Balla",US,tier4
+ecn,ECN,US,tier3
+azooptics_com,Azooptics.com,GB,tier3
+space_daily,"Space Daily",US,tier3
+labonline,Labonline,AU,tier3
+the_daily_californian,"The Daily Californian",US,tier4
+zeitnews,ZeitNews,DE,tier3
+futurity,Futurity,US,tier3
+bio_medicine_org,Bio-Medicine.org,US,tier3
+ingegneri,Ingegneri,IT,tier3
+shanghai_daily,"Shanghai Daily",CN,tier2
+nz_week,"NZ Week",NZ,tier4
+giornalettismo,Giornalettismo,IT,tier2
+nachrichten_at,Nachrichten.at,AT,tier2
+augsburger_allgemeine,"Augsburger Allgemeine",DE,tier2
+deutschlandfunk,Deutschlandfunk,DE,tier2
+berliner_morgenpost,"Berliner Morgenpost",DE,tier2
+pharmazeutische_zeitung,"Pharmazeutische Zeitung",DE,tier3
+labo_online,"LABO Online",DE,tier3
+gottinger_tageblatt,"Göttinger Tageblatt",DE,tier2
+lapresse,LaPresse,CA,tier2
+schweizer_radio_und_fernsehen,"Schweizer Radio und Fernsehen",CH,tier2
+radiopolar,Radiopolar,CL,tier2
+preventdisease_com,Preventdisease.com,CA,tier3
+dhaka_tribune,"Dhaka Tribune",BD,tier2
+healthnews_uk,"Healthnews UK",GB,tier3
+the_northern_echo,"The Northern Echo",GB,tier2
+newshour_bangladesh,"Newshour (Bangladesh)",BD,tier2
+jakarta_media,"Jakarta Media",ID,tier4
+toronto_telegraph,"Toronto Telegraph",CA,tier4
+pharmaworld_magazine,"Pharmaworld Magazine",IT,tier2
+the_information_daily,"The Information Daily",GB,tier2
+chromatography_techniques,"Chromatography Techniques",US,tier3
+pieuvre_ca,Pieuvre.ca,CA,tier4
+scienceworld_cz,Scienceworld.cz,CZ,tier3
+daily_lounge,"Daily Lounge",US,tier4
+georgia_public_radio,"Georgia Public Radio",US,tier2
+the_global_panorama,"The Global Panorama",GB,tier2
+planet_experts,"Planet Experts",US,tier3
+hirado,Hirado,HU,tier2
+paralel_taarruz,"Paralel Taarruz",TR,tier2
+eco_business,"Eco Business",SG,tier3
+akhbar_alkhaleej,"Akhbar Alkhaleej",BH,tier2
+alayam,Alayam,BH,tier4
+alwatan_news,"Alwatan News",BH,tier4
+kirabat,Kirabat,IQ,tier2
+iraq_agency_central_news,"Iraq Agency Central News",IQ,tier4
+mustaqila,Mustaqila,IQ,tier2
+azzaman,Azzaman,IQ,tier2
+al_sumaria,"Al Sumaria",IQ,tier2
+albayyna,Albayyna,IQ,tier2
+arabic_media_com,Arabic-Media.com,QA,tier2
+al_arab_qatar,"Al Arab (Qatar)",QA,tier2
+al_arabiya,"Al Arabiya",SA,tier2
+aawsat,Aawsat,SA,tier2
+al_riyadh,"Al Riyadh",SA,tier2
+al_yaum,"Al Yaum",SA,tier2
+al_madina,"Al Madina",SA,tier4
+al_jazirah,"Al Jazirah",SA,tier2
+green_report_italy,"Green Report (Italy)",IT,tier3
+fria_tider,"Fria Tider",SE,tier3
+forskning_se,Forskning.se,SE,tier3
+usaid,USAID,US,tier2
+unt_se,Unt.se,SE,tier4
+the_journal_ireland,"The Journal (Ireland)",IE,tier2
+medicalfacts_nl,Medicalfacts.nl,NL,tier3
+huisartsvandaag,Huisartsvandaag,NL,tier3
+leidsch_dagblad,"Leidsch Dagblad",NL,tier2
+global_post,"Global Post",US,tier2
+the_japan_times,"The Japan Times",JP,tier2
+the_local_sweden,"The Local (Sweden)",SE,tier4
+sciencenewsdaily_org,Sciencenewsdaily.org,US,tier3
+the_seattle_times,"The Seattle Times",US,tier2
+juneau_empire,"Juneau Empire",US,tier4
+bioedge_org,Bioedge.org,US,tier3
+economic_voice,"Economic Voice",GB,tier2
+daily_fusion,"Daily Fusion",US,tier3
+azocleantech_com,Azocleantech.com,GB,tier3
+the_express_tribune_pakistan,"The Express Tribune (Pakistan)",PK,tier2
+the_hans_india,"The Hans India",IN,tier2
+the_japan_herald,"The Japan Herald",JP,tier2
+outside,Outside,US,tier3
+novinky,Novinky,CZ,tier2
+vox_com,Vox.com,US,tier2
+standard_co_ke,Standard.co.ke,KE,tier2
+newsminer_com,Newsminer.com,US,tier4
+nursery_world,"Nursery World",GB,tier3
+norrkopings_tidningar,"Norrköpings Tidningar",SE,tier2
+farmweekly_com_au,Farmweekly.com.au,AU,tier3
+biofuelsdigest_com,Biofuelsdigest.com,US,tier3
+zap,ZAP,PT,tier2
+diario_del_web,"Diario del Web",IT,tier3
+slipped_disc,"Slipped Disc",GB,tier3
+artsjournal,ArtsJournal,US,tier3
+the_chronicle_of_higher_education,"The Chronicle of Higher Education",US,tier3
+oil_gas_financial_journals,"Oil & Gas Financial Journal",US,tier3
+the_sunday_times,"The Sunday Times",LK,tier3
+westmoreland_times,"Westmoreland Times",US,tier3
+mining_com,Mining.com,US,tier3
+metal_powder_report,"Metal Powder Report",NL,tier3
+mit_ei,"MIT ei",US,tier3
+mit_news,"MIT News",US,tier3
+architect_magazine,"Architect Magazine",US,tier3
+rocky_mountain_outlook,"Rocky Mountain Outlook",CA,tier2
+canadian_geographic,"Canadian Geographic",CA,tier3
+east_kootenay_news_online_weekly,"East Kootenay News Online Weekly ",CA,tier2
+canada_com,Canada.com,CA,tier2
+the_retiree,"The Retiree",AU,tier3
+the_tennessean,"The Tennessean",US,tier2
+stem_cell_news_digest,"Stem Cell News Digest",US,tier3
+ottowa_star,"Ottawa Star",CA,tier2
+wired_it,Wired.it,IT,tier2
+cardiosource,CardioSource,US,tier3
+bbc_focus_science_technology,"BBC Focus Science & Technology",GB,tier3
+yakima_herald,"Yakima Herald",US,tier2
+news_am,News.am,AM,tier2
+foodnavigator_com,FoodNavigator.com,US,tier3
+georgia_newsday,"Georgia Newsday",US,tier3
+ischoolguide,iSchoolGuide,US,tier3
+the_boston_globe,"The Boston Globe",US,tier2
+climate_cental,"Climate Central",US,tier3
+mondiaal_nieuws,"Mondiaal Nieuws",BE,tier2
+foodingredientsfirst,FoodIngredientsFirst,NL,tier3
+national_science_foundation,"National Science Foundation",US,tier3
+ucla_newsroom,"UCLA Newsroom",US,tier3
+nutraceuticals_world,"Nutraceuticals World",US,tier3
+knack_weekend,"Knack Weekend",BE,tier4
+allaboutfeed,AllAboutFeed,NL,tier3
+dairy_reporter,"Dairy Reporter",US,tier3
+ncyt_noticias_de_la_ciencia_y_la_technologia,"NCYT - Noticias de la Ciencia y la Technologia",ES,tier3
+no_camels_israeli_innovation_news,"No Camels - Israeli Innovation News ",IL,tier2
+lenta_ru,Lenta.ru,RU,tier2
+gazeta_wyborcza,"Gazeta Wyborcza",PL,tier2
+atlantico_fr,Atlantico.fr,FR,tier2
+newsbeat_uw_health_sciences,"NewsBeat - UW Health Sciences",US,tier3
+new_delhi_times,"New Delhi Times ",IN,tier2
+blue_and_green_tomorrow,"Blue and Green Tomorrow ",GB,tier3
+the_indian_journal,"The Indian Journal",IN,tier2
+agoravox,Agoravox,IT,tier2
+controlled_environments,"Controlled Environments",US,tier3
+tg_techno_nanotechnology_zone,"TG Techno Nanotechnology Zone",GB,tier3
+raleigh_news_and_observer,"Raleigh News and Observer ",US,tier2
+optics_photonics_news,"Optics & Photonics News",US,tier3
+azosensors_com,AzoSensors.com,US,tier3
+the_stanford_daily,"The Stanford Daily",US,tier2
+ee_times,"EE Times ",US,tier3
+tcmnet_com,TMCnet.com,US,tier3
+wlec_news,"WLEC News",US,tier2
+latin_post,"Latin Post",US,tier2
+lung_disease_news,"Lung Disease News",US,tier3
+environmentalhealth_news,"EnvironmentalHealth News",US,tier3
+alaska_despatch_news,"Alaska Despatch News",US,tier2
+barents_observer,"Barents Observer",NO,tier2
+news8,News8,US,tier2
+chemie_de,Chemie.de,DE,tier3
+tiroler_tageszeitung_online,"Tiroler Tageszeitung Online ",AT,tier2
+nickles_de,Nickles.de,DE,tier4
+factorynet_at,Factorynet.at,DE,tier3
+laborpraxis,LaborPraxis,DE,tier3
+kronen_zeitung,"Kronen Zeitung",AT,tier4
+azoquantum,AzoQuantum,US,tier3
+computerwelt,"ComputerWelt ",AT,tier3
+straight_com,Straight.com,CA,tier2
+cbs_local_denver,"CBS Local Denver",US,tier2
+justaforum,"Jura Forum",DE,tier3
+popular_archaeology,"Popular Archaeology",US,tier3
+abendzeitung,Abendzeitung.de,DE,tier2
+tyden_cz,Tyden.cz,CZ,tier2
+salzburg_com,Salzburg.com,AT,tier2
+du_bist_nachrichten,"Du Bist Nachrichten",AT,tier3
+neweurope_eu,NewEurope.eu,GB,tier2
+vietnam_plus,"Vietnam Plus ",VN,tier2
+eoswetenschap,EOSWetenschap,NL,tier3
+webindia123,WebIndia123,IN,tier3
+libya_today,"Libya Today",LY,tier2
+semiconductor_today,"Semiconductor Today",US,tier3
+commodity_online,"Commodity Online ",US,tier3
+daijiworld_com,Daijiworld.com,IN,tier4
+chennai_online,"Chennai Online ",IN,tier3
+calcutta_news,"Calcutta News",IN,tier3
+new_delhi_news,"New Delhi News",IN,tier3
+bombaynews_net,BombayNews.net,IN,tier3
+ncar_ucar_news,"NCAR/UCAR News",US,tier3
+state_times_india,"State Times India ",IN,tier3
+latinos_post,"Latinos Post",US,tier3
+vmt_food,"VMT Food ",NL,tier3
+11_be_noord_zuidportaal,"11.be Noord-Zuidportaal",NL,tier3
+electronics_weekly,"Electronics Weekly",US,tier3
+bumm_sk,Bumm.sk,HU,tier4
+transylvania_today_erdely_ma,"Transylvania Today - Erdely.ma",RO,tier3
+origo,Origo,HU,tier2
+chem_info,"Chem Info",US,tier3
+impronta_unika,"Impronta Unika ",IT,tier3
+scroll_india,"Scroll India ",IN,tier2
+yahoo_finance_canada,"Yahoo! Finance Canada ",CA,tier3
+seed_daily,"Seed Daily",US,tier3
+oil_of_russia_news,"Oil of Russia News",RU,tier3
+latinos_health,"Latinos Health",US,tier3
+slon_ru,Slon.ru,RU,tier2
+vesti_ru,Vesti.ru,RU,tier4
+chemport_ru,Chemport.ru,RU,tier3
+product_design_and_development,"Product Design and Development ",US,tier3
+natural_products_insider,"Natural Products Insider ",US,tier3
+nutritional_outlook,"Nutritional Outlook",US,tier3
+separations_now,"Separations Now",US,tier3
+drug_discovery_and_development,"Drug Discovery and Development ",US,tier3
+colon_cancer_news_today,"Colon Cancer News Today",US,tier3
+the_fish_site,"The Fish Site",US,tier3
+the_ecologist,"The Ecologist",US,tier3
+laboratory_equipment,"Laboratory Equipment ",US,tier3
+cp24,Cp24,CA,tier2
+rtcc_org,rtcc.org,US,tier3
+infrastructure_news,"Infrastructure News ",WS,tier3
+med_device_online,"Med Device Online ",US,tier3
+biotech_tutorial,"Biotech Tutorial",US,tier3
+northern_voices_online,"Northern Voices Online ",IN,tier3
+breaking_energy,"Breaking Energy",US,tier3
+sustainable_business,"Sustainable Business ",US,tier3
+inside_energy,"Inside Energy",US,tier3
+help_me_out_doc_news,"Help Me Out Doc News",US,tier3
+politico_magazine,"Politico Magazine ",US,tier3
+pediatric_news,"Pediatric News ",US,tier3
+gastroenterology_update,"Gastroenterology update ",AU,tier3
+econews_gr,econews.gr,GR,tier3
+statesmen_gr,Statesmen.gr,GR,tier2
+stars_and_stripes,"Stars and Stripes ",US,tier3
+lohud_com,Lohud.com,US,tier3
+hospitalist_news,"Hospitalist News ",US,tier3
+rheumatology_news,"Rheumatology News ",US,tier3
+vice_news_uk,"Vice News UK ",GB,tier3
+inside_science,"Inside Science",US,tier3
+nola_new_orleans_local_news,"NOLA - New Orleans Local News",US,tier2
+down_to_earth_india,"Down to Earth India ",IN,tier3
+maine_news,"Maine News ",US,tier3
+knack_be,"Knack.be ",BE,tier2
+aargauer_zeitung,"Aargauer Zeitung ",CH,tier2
+bieler_tagblatt,"Bieler Tagblatt",CH,tier2
+tagblatt,Tagblatt,CH,tier2
+suedostschweiz_ch,Suedostschweiz.ch,CH,tier2
+tageswoche,"TagesWoche ",CH,tier2
+general_anzeiger,"General Anzeiger ",DE,tier2
+20minutes,20minutes,FR,tier2
+24_heures,"24 Heures ",CH,tier2
+le_matin,"Le Matin",CH,tier4
+geneva_tribune,"Geneva Tribune ",CH,tier4
+le_courrier,"Le Courrier ",CH,tier2
+corriere_del_ticino,"Corriere Del Ticino ",CH,tier2
+giornale_del_popolo,"Giornale Del Popolo ",CH,tier2
+arzte_zeitung,"Arzte Zeitung ",DE,tier3
+cbs_local_washington_dc,"CBS Local Washington DC ",US,tier2
+climate_gov,Climate.Gov,GB,tier3
+lobs,"L'obs ",FR,tier2
+business_insider_australia,"Business Insider Australia ",AU,tier3
+oncology_nurse_advisor,"Oncology Nurse Advisor ",US,tier3
+skai_gr,Skai.gr,GR,tier2
+2_minute_medicine,"2 Minute Medicine ",US,tier3
+scientific_russia,"Scientific Russia ",RU,tier3
+strf_ru,strf.ru,RU,tier3
+science_and_life_russia,"Science and Life Russia ",RU,tier3
+elementy_ru,elementy.ru,RU,tier3
+vokrugsveta_ru,vokrugsveta.ru,RU,tier3
+colta_ru_science_news,"Colta.ru Science News ",RU,tier3
+tass_russia_news_agency,"TASS Russia News Agency",RU,tier2
+tass_science,"TASS Science ",RU,tier2
+investigacion_y_disarollo,"Investigacion y Disarollo ",MX,tier3
+family_practise_news,"Family Practise News ",US,tier3
+pharmastar_italy,"Pharmastar Italy",IT,tier3
+today_topics,"Today Topics ",US,tier2
+american_physical_society_physics,"American Physical Society - Physics ",US,tier3
+20minutos,20minutos,ES,tier2
+life_sciences_sweden,"Life Sciences Sweden ",SE,tier3
+solar_daily,"Solar Daily ",US,tier3
+nano,"Nano ",GB,tier3
+sky_nightly,"Sky Nightly ",US,tier3
+the_advocate,"The Advocate ",US,tier2
+nanometer_ru,nanometer.ru,RU,tier3
+greenfo,Greenfo,HU,tier3
+south_wales_argus,"South Wales Argus ",GB,tier4
+wales_online,"Wales Online ",GB,tier4
+herald_tribune,"Herald Tribune ",US,tier2
+nutraingredients_com,nutraingredients.com,GB,tier3
+food_navigator,"Food Navigator ",GB,tier3
+health_world,"Health World ",TW,tier3
+diabetes_online,"Diabetes Online ",DE,tier3
+texnomaniya,Texnomaniya,RU,tier3
+engineers_online,"Engineers Online ",NL,tier3
+c2wlabnews_nl,c2wlabnews.nl,NL,tier3
+global_capital_asia,"Global Capital Asia ",GB,tier3
+international_financing_review,"International Financing Review ",GB,tier3
+business_times_singapore,"Business Times Singapore",SG,tier3
+the_phnom_penh_post,"The Phnom Penh Post",KH,tier2
+the_myanmar_times,"The Myanmar Times ",MM,tier2
+ulan_bataar_post,"Ulan Bataar Post ",MN,tier2
+business_world_phillipines,"Business World Phillipines ",PH,tier2
+the_enquirer_phillipines,"The Inquirer (Phillipines)",PH,tier2
+phillipine_star,"Phillipine Star",PH,tier2
+manila_standard_today,"Manila Standard Today",PH,tier2
+scientific_america_spain,"Scientific America - Spain",US,tier3
+technical_weekly,"Technical Weekly ",NL,tier3
+jagran_post,"Jagran Post",IN,tier2
+liberation,Liberation,FR,tier2
+asia_news,"Asia News",IT,tier3
+the_speaker,"The Speaker",US,tier2
+yenisafak,"Yenisafak ",TR,tier4
+trt_haber,"TRT Haber ",TR,tier3
+tasnim_news_agency,"Tasnim News Agency",IR,tier2
+asia_research_news,"Asia Research News",SG,tier3
+technologist_magazine,"Technologist Magazine ",BE,tier3
+sri_lanka_source,"Sri Lanka Source ",LK,tier2
+republika_online,"Republika Online ",ID,tier2
+lab_manager,"Lab Manager ",US,tier3
+pharmacy_times,"Pharmacy Times",US,tier3
+china_post,"China Post",TW,tier2
+china_topix,"China Topix ",CN,tier2
+international_business_times_uk,"International Business Times (UK)",GB,tier3
+bakery_info,"Bakery Info",GB,tier3
+convenience_store,"Convenience Store ",GB,tier3
+drinks_international,"Drinks International",GB,tier3
+food_manufactre,"Food Manufacture",GB,tier3
+forecourt_trader,"Forecourt Trader",GB,tier3
+harpers_wine_and_spirits,"Harpers Wine and Spirits ",GB,tier3
+meat_info,"Meat Info",GB,tier3
+the_grocer,"The Grocer ",GB,tier3
+the_publicans_morning_advertiser,"The Publican's Morning Advertiser ",GB,tier3
+eth_zurich_news,"ETH Zurich News",CH,tier3
+business_recorder,"Business Recorder",PK,tier2
+biomass_magazine,"Biomass Magazine",US,tier3
+cns_news,"CNS News",US,tier3
+the_new_republic,"The New Republic",US,tier3
+washington_times,"Washington Times ",US,tier2
+seychelles_news_agency,"Seychelles News Agency",SC,tier2
+newsmax_com,newsmax.com,US,tier2
+alzforum,Alzforum,US,tier3
+deutschlandfunk_de,deutschlandfunk.de,DE,tier3
+agronomy_society_of_new_zealand,"Agronomy Society of New Zealand ",NZ,tier4
+new_zealand_dairy_exporter,"New Zealand Dairy Exporter ",NZ,tier3
+new_zealand_listener,"New Zealand Listener ",NZ,tier2
+interest_co_nz,interest.co.nz,NZ,tier3
+tvnz,TVNZ,NZ,tier3
+radio_new_zealand,"Radio New Zealand ",NZ,tier2
+clinical_endocrinology_news,"Clinical Endocrinology News ",US,tier3
+philanthropy_news_digest,"Philanthropy News Digest",US,tier3
+24_7_wall_street,"24/7 Wall Street ",US,tier3
+american_association_of_retired_persons,"American Association of Retired Persons ",US,tier3
+american_college_of_physicians,"American College of Physicians ",US,tier3
+the_daily_star_lebanon,"The Daily Star (Lebanon) ",LB,tier2
+scidev,SciDev,US,tier3
+rural_news_group,"Rural News Group ",NZ,tier3
+quebec_science,"Québec Science",CA,tier3
+physicians_briefing,"Physician's Briefing",US,tier3
+town_hall,"Town Hall",US,tier4
+vision_monday,"Vision Monday",US,tier4
+biospace,Biospace,US,tier4
+good_day_sacramento,"Good Day Sacramento",US,tier4
+mount_olive_tribune,"Mount Olive Tribune",US,tier4
+wired_com,Wired.com,US,tier3
+nutra_ingredients_usa,"Nutra Ingredients USA",US,tier3
+lab_product_news,"Lab Product News",CA,tier3
+test,test,,
+chem_europe,"Chem Europe ",GB,tier3
+st_daily,"ST Daily ",CN,tier2
+gmw_cn,gmw.cn,CN,tier2
+huanqiu_com,huanqiu.com,CN,tier2
+ifeng_com,ifeng.com,CN,tier2
+sina_com_cn,sina.com.cn,CN,tier2
+qq_com,qq.com,CN,tier2
+163_com,163.com,CN,tier3
+news_cn,news.cn,CN,tier2
+chinanews_com,chinanews.com,CN,tier2
+cntv_cn,cntv.cn,CN,tier2
+www_navy_mil,www.navy.mil,US,tier3
+us_army_news,"US Army News ",US,tier3
+hellogiggles_com,hellogiggles.com,US,tier4
+oak_ridge_national_laboratory,"Oak Ridge National Laboratory ",US,tier3
+bernews,"Bernews ",BM,tier2
+international_livestock_research_institute_news,"International Livestock Research Institute News ",KE,tier3
+rtl_niews,"RTL Niews ",NL,tier2
+europa_nu,"Europa Nu ",NL,tier2
+nos,"NOS ",NL,tier2
+materials_views,"Advanced Science News",GB,tier3
+daily_rx,"Daily RX ",US,tier3
+stat_news,"Stat News",US,tier3
+health_day,"Health Day ",US,tier3
+healthline,"Healthline ",US,tier3
+scripps_howard_foundation_wire,"Scripps Howard Foundation Wire ",US,tier3
+wbs_radio,"WBS Radio",US,tier2
+the_pink_sheet,"The Pink Sheet ",US,tier3
+biocentury,BioCentury,US,tier3
+bioworld,BioWorld,US,tier3
+kaiser_health_news,"Kaiser Health News",US,tier3
+tctmd,TCTMD,US,tier3
+cardiology_news,"Cardiology News",US,tier3
+governing_magazine,"Governing Magazine ",US,tier3
+ny_teknik,"NY Teknik",SE,tier3
+c2w_nl,c2w.nl,NL,tier3
+mass_live,"Mass Live",US,tier2
+air_force_times,"Air Force Times",US,tier3
+alaska_public_media,"Alaska Public Media ",US,tier2
+american_banker,"American Banker",US,tier3
+american_health_line,"American Health Line",US,tier3
+american_pharmacists_association,"American Pharmacists Association",US,tier3
+anesthesiology_news,"Anesthesiology News",US,tier3
+argus_leader,"Argus Leader ",US,tier2
+the_arizona_republic,"The Arizona Republic",US,tier2
+arkansas_online,"Arkansas Online",US,tier2
+arkansas_news,"Arkansas News",US,tier2
+the_atlanta_journal_constitution,"The Atlanta Journal Constitution",US,tier2
+atlantic_information_services,"Atlantic Information Services, Inc ",US,tier3
+the_augusta_chronicle,"The Augusta Chronicle ",US,tier2
+bangor_daily_news,"Bangor Daily News ",US,tier2
+behavioral_healthcare,"Behavioral Healthcare",US,tier3
+belleville_news_democrat,"Belleville News-Democrat ",US,tier2
+bennington_banner,"Bennington Banner",US,tier2
+billings_gazette,"Billings Gazette",US,tier2
+black_enterprise,"Black Enterprise",US,tier3
+battleboro_reformer,"Battleboro Reformer",US,tier2
+breitbart_news_network,"Breitbart News Network",US,tier2
+burlington_free_press,"Burlington Free Press",US,tier2
+business_journals,"Business Journals",US,tier3
+business_record,"Business Record",US,tier3
+california_healthline,"California Healthline",US,tier3
+capital_journal,"Capital Journal",US,tier2
+cato_institute,"Cato Institute",US,tier3
+the_post_and_courier,"The Post and Courier",US,tier2
+the_charlotte_observer,"The Charlotte Observer",US,tier2
+northwest_herald,"Northwest Herald",US,tier2
+cincinnati_enquirer,"Cincinnati Enquirer",US,tier2
+clinical_advisor,"Clinical Advisor",US,tier3
+cnn_money,"CNN Money",US,tier1
+the_connecticut_mirror,"The Connecticut Mirror ",US,tier2
+ct_post,"CT Post",US,tier2
+evansville_courier_post,"Evansville Courier & Press",US,tier2
+crains_chicago_business,"Crain's Chicago Business ",US,tier3
+crains_cleveland_business,"Crain's Cleveland Business",US,tier3
+crains_new_york_business,"Crain's New York Business",US,tier3
+c_span,C-SPAN,US,tier1
+daily_breeze,"Daily Breeze",US,tier2
+the_daily_caller,"The Daily Caller",US,tier4
+daily_finance,"Daily Finance",US,tier3
+the_dallas_morning_news,"The Dallas Morning News",US,tier2
+defense_news,"Defense News ",US,tier3
+democrat_and_chronicle,"Democrat and Chronicle",US,tier2
+the_detroit_news,"The Detroit News",US,tier2
+diagnostic_imaging,"Diagnostic Imaging ",US,tier3
+drug_topics,"Drug Topics",US,tier3
+duluth_news_tribune,"Duluth News Tribune",US,tier2
+el_paso,"El Paso",US,tier2
+everyday_health,"Everyday Health",US,tier3
+eweek,EWeek,US,tier2
+fact_check,"Fact Check",US,tier2
+fda_news,"FDA News",US,tier3
+federal_news_radio,"Federal News Radio",US,tier3
+fierce_health_finance,"Fierce  Health",US,tier3
+the_fiscal_times,"The Fiscal Times",US,tier3
+fivethirtyeight,FiveThirtyEight,US,tier2
+florida_today,"Florida Today",US,tier2
+gulfood,Gulfood,US,tier3
+the_journal_gazette,"The Journal Gazette",US,tier2
+star_telegram,Star-Telegram,US,tier2
+fortune,Fortune,US,tier2
+the_fresno_bee,"The Fresno Bee",US,tier2
+georgia_health_news,"Georgia Health News",US,tier3
+government_executive,"Government Executive",US,tier3
+the_greenville_news,"The Greenville News",US,tier2
+hartford_business,"Hartford Business",US,tier3
+hcpro,HCPro,US,tier3
+healthcare_informatics,"Healthcare Informatics",US,tier3
+health_data_management,"Health Data Management ",US,tier3
+health_facilities_management,"Health Facilities Management ",US,tier3
+healthcare_it_news,"Healthcare IT News",US,tier3
+healthcare_finance_news,"Healthcare Finance News",US,tier3
+healthcare_info_security,"Healthcare Info Security",US,tier3
+the_hechinger_report,"The Hechinger Report",US,tier3
+lexington_herald_leader,"Lexington Herald Leader",US,tier2
+here_now,"Here & Now",US,tier2
+the_heritage_foundation,"The Heritage Foundation",US,tier3
+high_plains_midwest_ag_journal,"High Plains Midwest Ag Journal",US,tier3
+hospitals_health_networks,"Hospitals & Health Networks",US,tier3
+humanosphere,Humanosphere,US,tier3
+idaho_statements,"Idaho Statements",US,tier2
+ihealthbeat,iHealthBeat,US,tier3
+informationweek,InformationWeek,US,tier3
+investopedia,"Investopedia ",US,tier3
+journal_of_accountancy,"Journal of Accountancy",US,tier3
+kansas_city_star,"Kansas City Star",US,tier2
+kansas_public_radio,"Kansas Public Radio",US,tier2
+kansas_city_university_radio,"Kansas City University Radio",US,tier2
+the_keene_sentinel,"The Keene Sentinel ",US,tier2
+abc_7_news,"ABC 7 News",US,tier2
+king_5,"King 5",US,tier2
+kiplinger,Kiplinger,US,tier3
+kjzz,KJZZ,US,tier2
+nbc4,NBC4,US,tier2
+komo_news,"KOMO News",US,tier2
+kpcc_southern_california_public_radio,"KPCC : Southern California Public Radio",US,tier2
+houston_public_media,"Houston Public Media",US,tier2
+kut,KUT,US,tier2
+st_louis_public_radio,"St Louis Public Radio",US,tier2
+la_opinion,"La Opinión",MX,tier2
+las_vegas_sun_news,"Las Vegas Sun News",US,tier2
+life_health_pro,"Life Health Pro",US,tier3
+los_angeles_business_journal,"Los Angeles Business Journal",US,tier3
+kennebec_journal_morning_sentinel,"Kennebec Journal & Morning Sentinel",US,tier2
+managed_care_magazine,"Managed Care Magazine",US,tier3
+managed_healthcare_executive,"Managed Healthcare Executive",US,tier3
+marketplace,Marketplace,US,tier3
+mcknights,McKnight's,US,tier3
+medical_device_daily,"Medical Device Daily",US,tier3
+medical_economics,"Medical Economics ",US,tier3
+dominica_vibes,"Dominica Vibes ",DO,tier2
+medical_marketing_and_media,"Medical Marketing and Media",US,tier3
+minnesota_daily,"Minnesota Daily",US,tier2
+mobi_health_news,"Mobi Health News",US,tier3
+modern_healthcare,"Modern Healthcare",US,tier3
+st_maarten_island_time,"St Maarten Island Time ",SX,tier2
+montgomery_advertiser,"Montgomery Advertiser",US,tier2
+naples_daily_news,"Naples Daily News",US,tier2
+national_journal,"National Journal",US,tier2
+the_new_england_journal_of_medicine,"The New England Journal of Medicine ",US,tier3
+union_leader,"Union Leader",US,tier2
+new_haven_register,"New Haven Register",US,tier2
+new_york_post,"New York Post",US,tier1
+pr_newswire,"PR Newswire",US,tier3
+new_hampshire_public_radio,"New Hampshire Public Radio",US,tier2
+nj_biz,"NJ BIZ",US,tier3
+oregon_public_broadcasting,"Oregon Public Broadcasting",US,tier2
+news_and_sentinel,"News and Sentinel",US,Tier2
+cnbc_nightly_business_report,"CNBC: Nightly Business Report",US,tier2
+pharmaceutical_executive,"Pharmaceutical Executive",US,tier3
+physicians_practice,"Physicians Practice",US,tier3
+physicians_weekly,"Physician's Weekly",US,tier3
+pittsburgh_tribune_review,"Pittsburgh Tribune Review",US,tier2
+press_of_atlantic_city,"Press of Atlantic City ",US,tier2
+prevention,Prevention,US,tier4
+public_radio_international,"Public Radio International",US,tier1
+pulso,Pulso,CL,tier2
+reading_eagle,"Reading Eagle",US,tier2
+rhode_island_public_radio,"Rhode Island Public Radio",US,tier2
+richmond_times_dispatch,"Richmond Times-Dispatch",US,tier2
+roll_call,"Roll Call",US,tier2
+rtt_news,"RTT News",US,tier2
+the_salt_lake_tribune,"The Salt Lake Tribune",US,tier2
+my_san_antonio,"My San Antonio",US,tier2
+santa_cruz_sentinel,"Santa Cruz Sentinel",US,tier2
+the_santa_fe_new_mexican,"The Santa Fe New Mexican",US,tier2
+seacoast_online,"Seacoast Online",US,tier2
+the_sentinel_echo,"The Sentinel-Echo",US,tier2
+south_california_public_radio,"South California Public Radio",US,tier2
+the_spokesman_review,"The Spokesman-Review",US,tier2
+st_albans_messenger,"St. Albans Messenger",US,tier2
+fox_news_26,"Fox News 26",US,tier2
+st_louis_post_dispatch,"St. Louis Post-Dispatch",US,tier2
+the_state_journal_register,"The State Journal-Register",US,tier2
+sun_journal,"Sun Journal",US,tier2
+take_part,"Take Part",US,tier2
+the_taos_news,"The Taos News",US,tier2
+texas_monthly,"Texas Monthly",US,tier2
+texas_observer,"Texas Observer",US,tier2
+the_texas_tribune,"The Texas Tribune",US,tier2
+the_blaze,"The Blaze",US,tier2
+brooklyn_daily_eagle,"Brooklyn Daily Eagle",US,tier2
+chattanooga_times_free_press,"Chattanooga Times Free Press",US,tier2
+courier_journal,Courier-Journal,US,tier2
+the_day,"The Day",US,tier2
+herald_mail_media,"Herald Mail Media",US,tier2
+the_hill,"The Hill",US,tier2
+the_hindu_business_line,"The Hindu Business Line",IN,tier2
+the_indianapolis_star,"The Indianapolis Star",US,tier2
+morning_consult,"Morning Consult ",US,tier3
+moyers_company,"Moyers & Company",US,tier2
+the_root,"The Root",US,tier3
+abc_news_wmur_9,"ABC News WMUR 9",US,tier2
+think_progress,"Think Progress",US,tier2
+times_argus,"Times Argus",US,tier2
+times_union,"Times Union",US,tier2
+united_states_consumer_protection_safety_commission,"United States Consumer Protection Safety Commission ",US,tier3
+ventura_county_star,"Ventura County Star",US,tier2
+wabe,WABE,US,tier2
+washington_examiner,"Washington Examiner",US,tier2
+the_washington_informer,"The Washington Informer",US,tier2
+wbez,WBEZ,US,tier2
+wbur,WBUR,US,tier2
+wcax,WCAX,US,tier2
+wcpo,WCPO,US,tier2
+the_wichita_eagle,"The Wichita Eagle",US,tier2
+wilson_center,"Wilson Center",US,tier3
+winston_salem_journal,"Winston-Salem Journal",US,tier2
+wlrn,WLRN,US,tier2
+wnyc,WNYC,US,tier2
+worchester_business_journal,"Worcester Business Journal",US,tier3
+telegram_com,telegram.com,US,tier2
+wpri_12_eyewitness_news,"WPRI 12 Eyewitness News",US,tier2
+wptz_news_channel_5,"WPTZ News Channel 5",US,tier2
+wtop,WTOP,US,tier2
+wunc,WUNC,US,tier2
+wyoming_tribune_eagle,"Wyoming Tribune Eagle ",US,tier2
+wypr,WYPR,US,tier2
+yahoo_finance_usa,"Yahoo! Finance USA",US,tier2
+electronic_design,"Electronic Design",US,tier3
+new_electronics,"New Electronics ",GB,tier3
+american_heart_association,"American Heart Association ",US,tier2
+npr_the_salt,"NPR: The Salt",US,tier3
+la_times_science_now,"LA Times",US,tier2
+sf_gate,"SF Gate",US,tier2
+pharmacy_news,"Pharmacy News",AU,tier3
+aus_pharmacist,"Aus Pharmacist",AU,tier3
+pharma_in_focus,"Pharma in Focus",AU,tier3
+pharmacy_daily,"Pharmacy Daily",AU,tier3
+medical_observer,"Medical Observer",AU,tier3
+cnn_health,"CNN: Health",US,tier3
+m_3_medical,"M 3 Medical",US,tier3
+business_insider_uk,"Business Insider UK",GB,tier3
+equities_com,Equities.com,US,tier3
+financial_content,"Financial Content",US,tier3
+minyanville_finance,"Minyanville: Finance ",US,tier3
+moneyshow_stock_market,"MoneyShow: Stock Market",US,tier3
+sign_of_the_times,"Sign of the Times",US,tier3
+bustle,Bustle,US,tier4
+kplc_7_news,"KPLC 7 News",US,tier2
+kceng12,KCENG12,US,tier2
+kten,KTEN,US,tier2
+wsfa,"WSFA ",US,tier2
+news_channel,"News Channel",US,tier2
+wtvm,WTVM,US,tier2
+walb,WALB,US,tier2
+cw_richmond,"CW: Richmond",US,tier4
+mississippi_news_now,"Mississippi News Now ",US,tier2
+kx_news,"KX News",US,tier2
+fox_14_news,"Fox 14 News",US,tier2
+news_channel_6,"News Channel 6",US,tier2
+wltz,WLTZ,US,tier2
+2_news,"2 News",US,tier2
+klkn_tv_eyewitness_news,"KLKN-TV Eyewitness News",US,tier2
+wflx_fox_29,"WFLX Fox 29",US,tier2
+wlox,WLOX,US,tier2
+khq,KHQ,US,tier2
+bloomberg,Bloomberg,US,tier3
+examiner,Examiner,US,tier3
+hawaii_news_now,"Hawaii News Now",US,tier2
+wtol,WTOL,US,tier2
+kusi_news,"KUSI News",US,tier2
+gizmodo_australia,"Gizmodo Australia",AU,tier3
+seeking_alpha,"Seeking Alpha",US,tier3
+kcbd,KCBD,US,tier2
+kuam,Kuam,GU,tier2
+psychology_today,"Psychology Today",US,tier3
+wall_street_select_investor,"Wall Street Select : Investor",US,tier3
+pettinga_stock_market,"Pettinga: Stock Market",US,tier3
+stock_nod_quotes,"Stock Nod: Quotes",US,tier3
+kait_tv,KAIT-TV,US,tier2
+7th_space_family_portal,"7th Space Family Portal",US,tier3
+wvns_tv,WVNS-TV,US,tier2
+science_alert,"Science Alert",US,tier3
+wboy,WBOY,US,tier2
+newson6,NewsOn6,US,tier2
+wtrf_7_news,"WTRF 7 News",US,tier2
+hal_archives_ouvertes,"HAL Archives-Ouvertes",FR,tier3
+fat_pitch_financials_stock_quote,"Fat Pitch Financials: Stock Quote",US,tier3
+cbs8,CBS8,US,tier2
+wdam_tv,"WDAM - TV",US,tier2
+cleveland_19,"Cleveland 19",US,tier2
+huffington_post_uk,"Huffington Post UK",GB,tier1
+scribd,Scribd,US,tier3
+yahoo_finance_uk,"Yahoo! Finance UK ",GB,tier3
+tech_insider,"Tech Insider",US,tier3
+wtoc,WTOC,US,tier2
+wistv,WISTV,US,tier2
+wrcb_tv,"WRCB- TV",US,tier2
+news_9,"News 9",US,tier2
+fox_54,"Fox 54",US,tier2
+wdrb,WDRB,US,tier2
+wand_17,"WAND 17",US,tier2
+gizmodo_india,"Gizmodo India",IN,tier3
+14_news,"14 News",US,tier2
+wave_3_news,"Wave 3 News",US,tier2
+abc_40,"ABC 40",US,tier2
+48_waff,"48 WAFF",US,tier2
+my_fox_tallahassee,"My FOX Tallahassee",US,tier2
+wfmj,WFMJ,US,tier2
+nbc12,NBC12,US,tier2
+newswest9,NewsWest9,US,tier2
+kltv,KLTV,US,tier2
+ktre,KTRE,US,tier2
+md_magazine,"MD Magazine",US,tier3
+erie_news_now,"Erie News Now",US,tier2
+abc_7_news_kswo,"ABC 7 News KSWO",US,tier2
+ksla_news_12,"KSLA News 12",US,tier2
+wmbf_news,"WMBF News",US,tier2
+gtn_news,"GTN News ",US,tier2
+abc_6_news_wlne,"ABC 6 News WLNE",US,tier2
+i4u,I4U,US,tier2
+abc_ntv,"ABC NTV",US,tier2
+kiiitv_3,"KiiiTV 3 ",US,tier2
+gizmodo_uk,"Gizmodo UK",GB,tier3
+wboc_16,"WBOC 16",US,tier2
+business_insider_indonesia,"Business Insider Indonesia",IN,tier3
+business_insider_malaysia,"Business Insider Malaysia",MY,tier3
+business_insider_singapore,"Business Insider Singapore",SG,tier3
+yahoo_finance_singapore,"Yahoo! Finance Singapore",SG,tier3
+wafb_9,"WAFB 9",US,tier2
+care2,Care2,US,tier3
+ticker_tech,"Ticker Tech",US,tier3
+fox_8_wvue,"Fox 8 WVUE",US,tier2
+yahoo,Yahoo!,US,tier1
+wmc_action_news_5,"WMC Action News 5",US,tier2
+chinese_academy_of_science,"Chinese Academy of Science",CN,tier3
+kstc_45_lifestyle,"KSTC 45 Lifestyle",US,tier4
+south_carolina_news_now,"South Carolina News Now",US,tier2
+12_news_kbmt,"12 News KBMT",US,tier2
+mic,Mic,US,tier3
+business_insider_india,"Business Insider India",ID,tier3
+kfve_the_home_team,"KFVE The Home Team",US,tier3
+nbc_right_now_kndu_25,"NBC Right Now KNDU 25",US,tier2
+value_walk,"Value Walk",US,tier3
+world_economic_forum,"World Economic Forum",CH,tier3
+benzinga,Benzinga,US,tier3
+pm_360,"PM 360",US,tier3
+fox_wilmington,"Fox Wilmington",US,tier2
+rocket_news,"Rocket News",US,tier2
+united_health_care,"United Health Care",US,tier3
+wuwm,WUWM,US,tier2
+krwg_tv_fm,"KRWG TV/FM",US,tier2
+the_state_journal,"The State Journal",US,tier2
+scoop_sante,Scoop-santé,CA,tier3
+ktep_el_paso,"KTEP El Paso",US,tier2
+the_world_seeds,"The World Seeds ",CN,tier3
+the_street_business_news,"The Street: Business News",US,tier2
+sdpb_radio,"SDPB Radio",US,tier2
+kcur,KCUR,US,tier2
+alternet,Alternet,US,tier2
+nhpr,NHPR,US,tier2
+tri_states_public_radio,"Tri States Public Radio",US,tier2
+boise_state_public_radio,"Boise State Public Radio",US,tier2
+sys_con_media,"SYS-CON Media",US,tier3
+review_seeker,"Review Seeker",US,tier4
+iowa_public_radio,"Iowa Public Radio",US,tier2
+nacio_digital,"Nació digital",ES,tier2
+snewsi,sNEWSI,US,tier4
+pr_web,"PR Web",US,tier3
+pennenergy,PennEnergy,US,tier3
+madrid,"Madrid ",ES,tier3
+wcbe,"WCBE ",US,tier2
+news_channel_10,"News Channel 10",US,tier2
+buzzfeed,Buzzfeed,US,tier1
+sante_blog,"Santé blog",FR,tier3
+stockhouse,Stockhouse,US,tier3
+kunm,KUNM,US,tier2
+wyoming_public_radio,"Wyoming Public Radio",US,tier2
+kera_news,"KERA News",US,tier2
+north_carolina_public_radio,"North Carolina Public Radio",US,tier2
+north_east_public_radio,"North East Public Radio",US,tier2
+northern_public_radio,"Northern Public Radio",US,tier2
+witchitas_public_radio,"Witchita's Public Radio",US,tier2
+cloud_computing_journal,"Cloud Computing Journal",US,tier3
+health_news,"Health: News",US,tier4
+university_of_kansas_public_radio,"University of Kansas Public Radio",US,tier2
+wuky,WUKY,US,tier2
+central_coast_public_radio,"Central Coast Public Radio",US,tier2
+arizona_public_radio,"Arizona Public Radio",US,tier2
+wvpe,WVPE,US,tier2
+a_koahnic_broadcast_station,"A Koahnic Broadcast Station",US,tier2
+jazz_wclk,"Jazz WCLK",US,tier3
+the_university_of_new_orleans_public_radio,"The University of New Orleans Public Radio ",US,tier2
+omaha_public_radio,"Omaha Public Radio",US,tier2
+wxpr,WXPR,US,tier2
+abc_4_news,"ABC 4 News",US,tier2
+press_people,"Press People",ES,tier3
+daily_kos,"Daily Kos",US,tier3
+northeastern_indiana_public_radio,"Northeastern Indiana Public Radio ",US,tier2
+asian_scientist,"Asian Scientist",SG,tier3
+rhode_island_public_radio_ri_npr,"Rhode Island Public Radio RI-NPR",US,tier2
+american_council_on_science_and_health,"American Council on Science and Health",US,tier3
+biz_wire_express,"Biz Wire Express",US,tier3
+mauritania_vox,"Mauritania Vox",MR,tier3
+sys_con_belgium,"SYS-CON Belgium",BE,tier3
+radio_acadie,"Radio Acadie",US,tier2
+yahoo_news_uk,"Yahoo! News UK",GB,tier1
+ajax_world,"Ajax World",CA,tier3
+slate_france,"Slate France",FR,tier1
+opb,OPB,US,tier2
+yahoo_news_singapore,"Yahoo! News Singapore",SG,tier1
+citylab,CityLab,US,tier2
+doccheck_news,"DocCheck News",GB,tier3
+global_advisors,"Global Advisors",US,tier3
+wkar,WKAR,US,tier2
+kclu,KCLU,US,tier2
+the_street,"The Street",US,tier3
+interlochen_public_radio,"Interlochen Public Radio",US,tier2
+fusion,Fusion,US,tier3
+tucson_news_now,"Tucson News Now",US,tier2
+international_journal_of_radiation_oncology,"International Journal of Radiation Oncology",US,tier3
+gizmag,Gizmag,US,tier3
+rolling_stone,"Rolling Stone",US,tier2
+individual,Individual,US,tier3
+new_england_public_radio,"New England Public Radio",US,tier2
+wrkf,WRKF,US,tier2
+doctissimo_news,"Doctissimo News",FR,tier3
+free,"Free ",FR,tier2
+bloomberg_view,"Bloomberg View",US,tier3
+index,"Index Hungary",HU,tier2
+ok,Ok,IT,tier3
+enterprise_open_source,"Enterprise Open Source",US,tier3
+la_voz_digital,"La Voz Digital",ES,tier3
+us_news_health,"US News Health",US,tier3
+foreign_affairs_new_zealand,"Foreign Affairs New Zealand",NZ,tier3
+inc,Inc.,US,tier3
+ulitzer,Ulitzer,US,tier3
+s_p_news,"S P News",JP,tier3
+wjct,WJCT,US,tier2
+antimicrobial_agents_and_chemotherapry,"Antimicrobial Agents, and Chemotherapry",US,tier3
+fresh_news,"Fresh News",US,tier3
+ehe_me,EHE&ME,US,tier3
+biotech_gate,"BioTech Gate",US,tier3
+wall_street_online_denmark,"Wall Street Online Denmark",DK,tier3
+wall_street_online_germany,"Wall Street Online Germany",DE,tier3
+science_recorder,"Science Recorder",US,tier3
+nasdaq,NASDAQ,US,tier1
+refinery29,Refinery29,US,tier4
+fox_54_wfxg,"FOX 54 WFXG",US,tier2
+virtual_strategy,Virtual-Strategy,US,tier3
+hola_doctor,"Hola Doctor",ES,tier3
+jano,Jano,ES,tier3
+fanpage_science,"Fanpage Science",IT,tier3
+virtualisation_conference,"Virtualisation Conference ",US,tier4
+my_news_desk,"My News Desk",US,tier4
+upi_spain,"UPI Spain",ES,tier3
+ajmc,AJMC,US,tier3
+stamford_advocate,"Stamford Advocate",US,tier2
+the_san_diego_union_tribune,"The San Diego Union-Tribune",US,tier2
+vocativ,Vocativ,US,tier3
+finanz_nachrichten,"Finanz Nachrichten",DE,tier3
+whtr_13,WTHR13,US,tier2
+wowktv_13,"WOWKTV 13",US,tier2
+report_24,"Report 24",ES,tier2
+she_knows,"She Knows",US,tier4
+abc_desevilla,"ABC desevilla",ES,tier2
+harvard_business_review,"Harvard Business Review ",US,tier1
+kunc,KUNC,US,tier2
+grist,Grist,US,tier3
+wpxi,WPXI,US,tier2
+wftv_9,"WFTV 9",US,tier2
+wtoutia,Wtoutia,CN,tier4
+the_national_bureau_of_economic_research,"The National Bureau of Economic Research",US,tier3
+myza,MyZA,ZW,tier4
+business_wire,"Business Wire",US,tier3
+our_town,"Our Town",US,tier2
+brookings,Brookings,US,tier2
+southern_california_public_radio,"Southern California Public Radio",US,tier2
+wsoc_tv,WSOC-TV,US,tier2
+slide_share,"Slide Share",US,tier3
+direkt_broker,"Direkt Broker ",DE,tier3
+fast_company,"Fast Company",US,tier4
+paperblog,Paperblog,ES,tier2
+abc_action_news_wfts_tampa_bay,"ABC Action News WFTS Tampa Bay",US,tier2
+common_dreams,"Common Dreams",US,tier3
+lakeshore_public_m,"Lakeshore Public M",US,tier4
+lakeshore_public_media,"Lakeshore Public Media",US,tier2
+index_croatia,"Index Croatia",HR,tier2
+insurance_news_net,"Insurance News Net",US,tier3
+dayton_daily_news,"Dayton Daily News",US,tier2
+fight_aging,"Fight Aging!",US,tier4
+tech_crunch,"Tech Crunch",US,tier3
+wptv_5_west_palm_beach,"WPTV 5 West Palm Beach",US,tier2
+the_reporter_times,"The Reporter Times",US,tier2
+smiling_news,"Smiling News",JP,tier3
+polit,Polit,RU,tier3
+apa,APA,AT,tier2
+mongabay,Mongabay,US,tier3
+world_news_report,"World News Report",US,tier2
+fertility_and_sterility,"Fertility and Sterility",US,tier2
+nu,NU,NL,tier2
+pr_newswire_uk,"PR Newswire UK",GB,tier3
+health_finder,"Health Finder",US,tier3
+extreme_tech,"Extreme Tech",US,tier3
+costal_courrier,"Costal Courrier",US,tier2
+springfield_news_sun,"Springfield News Sun",US,tier2
+relief_web,"Relief Web",US,tier3
+chaunsong,Chaunsong,CN,tier4
+elite_daily,"Elite Daily",US,tier4
+europa_press,"Europa Press",ES,tier2
+action_news_jax,"Action News Jax",US,tier2
+infox,Infox,RU,tier2
+times_mail,"Times Mail",US,tier2
+tekniik_katalous,"Tekniik Katalous",FI,tier2
+ariva,Ariva,DE,tier2
+onmedica,OnMedica,US,tier3
+money_science,"Money Science",US,tier3
+annals_of_internal_medicine,"Annals of Internal Medicine",US,tier3
+me_naiset,"Me Naiset",FI,tier4
+abc_news_15_arizona,"ABC News 15 Arizona",US,tier2
+biomed_reports,"BioMed Reports",US,tier3
+naked_science,"Naked Science",RU,tier3
+centre_for_disease_research_and_policy,"Centre for Disease Research and Policy",US,tier3
+abc_7_wkbw_buffalo,"ABC 7 WKBW Buffalo",US,tier2
+el_ciudadano,"El Ciudadano",CO,tier2
+economy_watch,"Economy Watch",US,tier3
+open_democracy,"Open Democracy",GB,tier3
+fox_23_tulsa,"Fox 23 Tulsa",US,tier2
+seedquest,SeedQuest,US,tier3
+cosmopolitan,Cosmopolitan,GB,tier1
+metronews_france,"MetroNews France",FR,tier2
+green_car_congress,"Green Car Congress",US,tier3
+tvm,TVM,MT,tier2
+patient_information_forum,"Patient Information Forum",GB,tier3
+specialty_pharmacy_times,"Specialty Pharmacy Times",US,tier3
+drug_discovery_today,"Drug Discovery Today",US,tier3
+scimex,Scimex,AU,tier3
+informaria_digital,"Informaria Digital",ES,tier2
+medicine,"Medicine ",ES,tier3
+center_for_food_safety,"Center for Food Safety ",US,tier4
+science,"Science ",US,tier3
+environmental_impact,"Environmental Impact",US,tier3
+the_chemical_institute_of_canada,"The Chemical Institute of Canada ",CA,tier3
+renewable_energy_magazine,"Renewable Energy Magazine ",US,tier3
+european_commission_community_research_and_development_information_service,"European Commission: Community Research and Development Information Service ",BE,tier1
+the_exeter_daily,"The Exeter Daily",GB,tier2
+libero_24x7,"Libero 24x7",IT,tier2
+4uau,4UAU,AU,tier4
+algerian_business_info,"Algerian Business Info",DZ,tier3
+amwal_alghad,"Amwal Alghad",EG,tier2
+awate,Awate,US,tier2
+kompas,Kompas,ID,tier2
+world_bank,"World Bank",US,tier1
+food_world_news,"Food World News",US,tier3
+theory_and_practice,"Theory and Practice ",RU,tier3
+declara,Declara,US,tier3
+techsite,Techsite,GB,tier2
+my_web_memo,"My Web Memo",CA,tier2
+science_today_russia,"Science Today Russia",RU,tier3
+opli,Opli,IL,tier3
+i_micronews_jp,"i-Micronews JP ",JP,tier3
+chemistry_2011,"Chemistry 2011",CA,tier3
+noodls,Noodls,GB,tier3
+nano_digest,"Nano Digest",IN,tier3
+materials_gat,"Materials Gat",DE,tier3
+scientific_computing,"Scientific Computing ",US,tier3
+lincoln_ecology,"Lincoln Ecology",NZ,tier3
+yale_news,"Yale News",US,tier2
+sierra_sun_times,"Sierra Sun Times",US,tier2
+medportal,Medportal,RU,tier3
+biotechniques,"BioTechniques ",US,tier3
+expert_news_24,"Expert News 24",RU,tier2
+c_news,"C News ",RU,tier2
+sciencf,ScienCF,RU,tier3
+2_kanal,"2 Kanal",RU,tier2
+http_www_newskj_org,"News KJ",CN,tier3
+porto,Porto,PT,tier2
+oncology_news,"Oncology News",AU,tier3
+copd_news_today,"COPD News Today",US,tier3
+medical_brief,"Medical Brief",ZA,tier3
+lpl_news_24,"LPL News 24",IT,tier2
+china_digital_pathology,"China Digital Pathology",CN,tier3
+cancer_hospital_chinese_academy_of_medical_sciences,"Cancer Hospital Chinese Academy of Medical Sciences",CN,tier3
+nova_24hour,"Nova 24Hour",IT,tier3
+innovazione,Innovazione,IT,tier3
+autonocion,Autonoción,ES,tier3
+culture_case,"Culture Case",GB,tier3
+green_building_elements,"Green Building Elements",US,tier3
+the_land,"The Land",NZ,tier3
+science_network_australia,"Science Network Australia",AU,tier3
+war_on_the_rocks,"War on the Rocks",US,tier3
+eleztro,Eleztro,CZ,tier3
+nimbios,NIMBioS,US,tier3
+pasadena_independent,"Pasadena Independent ",US,tier2
+ncfr,NCFR,US,tier3
+futurism,Futurism,US,tier3
+always_researching,"Always Researching ",US,tier3
+water_online,"Water Online",US,tier3
+giztab,GizTab,ES,tier3
+sustainability_matters,"Sustainability Matters ",AU,tier3
+bird_watching_daily,"Bird Watching Daily",US,tier3
+bangalore_mirror,"Bangalore Mirror",IN,tier2
+unt,UNT,SE,tier2
+meine_region,Meine-Region,DE,tier2
+primeur_magazine,"Primeur Magazine",NL,tier3
+nanotechmag,NanotechMag,US,tier3
+newsland,Newsland,RU,tier2
+nano_news_net,"Nano News Net",RU,tier3
+science_network_western_australia,"Science Network Western Australia ",AU,tier3
+wellcome_trust_sanger_institute,"Wellcome Trust: Sanger Institute",GB,tier3
+wessex_live_science_cluster,"Wessex Live Science Cluster",GB,tier3
+university_of_cambridge_school_of_clinical_medicine,"University of Cambridge",GB,tier3
+saskatoon_homepage,"Saskatoon Homepage",CA,tier2
+charged,Charged,US,tier3
+university_of_wisconsin_madison,"University of Wisconsin-Madison",US,tier3
+science_codex,"Science Codex",US,tier3
+technology_networks,"Technology Networks",US,tier3
+times_of_news_russia,"Times of News Russia",RU,tier2
+fresh_ghana,"Fresh Ghana",GH,tier2
+internet_medicine,"Internet Medicine",US,tier3
+labroots,LabRoots,US,tier3
+bljesak,Bljesak,HR,tier2
+klix,Klix,BA,tier2
+femto_medicine,"Femto Medicine",US,tier3
+centro_nazionale_sangue,"Centro Nazionale Sangue",IT,tier3
+biotech_in_asia,"Biotech in Asia ",SG,tier3
+my_science,"My Science",US,tier3
+bio_valley,"Bio Valley ",CN,tier3
+sunyet,Sunyet,CN,tier3
+the_zimbabwean,"The Zimbabwean",ZW,tier2
+africa_geographic,"Africa Geographic",ZA,tier3
+science_beta,"Science Beta",US,tier3
+hakai_magazine,"Hakai Magazine",US,tier3
+all_news_24,"All News 24",IT,tier2
+detroit_newstime,"Detroit Newstime",US,tier2
+evening_times,"Evening Times",GB,tier2
+westmorland_gazette,"Westmorland Gazette",GB,tier2
+annals_of_long_term_care,"Annals of Long-Term Care ",US,tier3
+euro_weekly_news,"Euro Weekly News",ES,tier2
+maxim,Maxim,US,tier1
+marie_claire,"Marie Claire",GB,tier1
+sci_gogo,"Sci Gogo",US,tier3
+next_city,"Next City",US,tier2
+agencia_fapesp,"Agência Fapesp",BR,tier2
+university_of_sao_paulo,"University of São Paulo",BR,tier3
+cctv_news_china,"CCTV News China ",CN,tier2
+24_india_news,"24 India News ",IN,tier2
+bangladeshi_business_news,"Bangladeshi Business News",BD,tier3
+the_informer,"The Informer",GB,tier3
+electro_akhbar,"Electro Akhbar",IR,tier2
+prothom_alo,"Prothom Alo ",BD,tier2
+informs,Informs,US,tier3
+the_education_post,"The Education Post",IN,tier3
+the_observer_24,"The Observer 24",GB,tier2
+asian_journal,"Asian Journal",CA,tier2
+big_news_live,"Big News Live",IN,tier2
+business_zoom,"Business Zoom",IN,tier3
+cambio_digital,"Cambio Digital",MX,tier2
+el_imparcial,"El Imparcial",US,tier3
+financial_prospect,"Financial Prospect ",IN,tier2
+frontera,Frontera,MX,tier2
+india_white_paper,"India White Paper ",IN,tier2
+the_kashmir_monitor,"The Kashmir Monitor",IN,tier2
+la_cronica,"La Cronica",MX,tier2
+metronews_us,"MetroNews US",US,tier2
+millenium_post,"Millenium Post",IN,tier2
+new_kerala,"New Kerala",IN,tier2
+pradesh18,Pradesh18,IN,tier2
+newsroom_post,"Newsroom Post",IN,tier2
+news_vivo,"News Vivo",IN,tier2
+newsx,NewsX,IN,tier2
+scitechreporter,SciTechReporter,ID,tier3
+the_siasat_daily,"The Siasat Daily",IN,tier2
+sify_news,"SIFY News",IN,tier2
+socialnews_xyz,SocialNews.XYZ,IN,tier2
+the_free_library,"The Free Library",US,tier3
+western_daily_press,"Western Daily Press ",GB,tier2
+western_telegraph,"Western Telegraph",GB,tier2
+cotswold_journal,"Cotswold Journal",GB,tier2
+northwich_guardian,"Northwich Guardian",GB,tier2
+ardrossan_saltcoats_herald,"Ardrossan & Saltcoats Herald",GB,tier2
+basildon_canvey_southend_echo,"Basildon, Canvey, Southend Echo",GB,tier2
+south_wale_guardian,"South Wales Guardian",GB,tier2
+largs_millport_weekly_news,"Largs & Millport Weekly News",GB,tier2
+news_shopper,"News Shopper ",GB,tier2
+durham_times,"Durham Times",GB,tier2
+the_argus,"The Argus",GB,tier2
+peeblesshire_news,"Peeblesshire News",GB,tier2
+east_lothian_courier,"East Lothian Courier",GB,tier2
+lancashire_telegraph,"Lancashire Telegraph",GB,tier2
+andover_advertiser,"Andover Advertiser",GB,tier2
+tivy_side_advertiser,"Tivy-Side Advertiser",GB,tier2
+falmouth_packet,"Falmouth Packet",GB,tier2
+the_advertiser_chester_le_street,"The Advertiser: Chester-le-Street",GB,tier2
+asian_image,"Asian Image ",GB,tier2
+ealing_times,"Ealing Times",GB,tier2
+gazetta,Gazetta,GB,tier2
+the_guide_prestwich_and_whitefield,"The Guide: Prestwich and Whitefield",GB,tier2
+review_st_albans_harpenden,"Review: St Albans & Harpenden",GB,tier2
+bridgwater_mercury,"Bridgwater Mercury",GB,tier2
+clacton_gazette,"Clacton Gazette",GB,tier2
+dorset_echo,"Dorset Echo",GB,tier2
+yeovil_express,"Yeovil Express",GB,tier2
+clydebank_post,"Clydebank Post",GB,tier2
+wirral_globe,"Wirral Globe",GB,tier2
+st_helens_star,"St Helens Star",GB,tier2
+halesowen_news,"Halesowen News",GB,tier2
+maldon_standard,"Maldon Standard",GB,tier2
+newbury_thatcham_chronicle,"Newbury & Thatcham Chronicle",GB,tier2
+windsford_guardian,"Winsford Guardian",GB,tier2
+craven_herald_pioneer,"Craven Herald & Pioneer",GB,tier2
+bury_times,"Bury Times ",GB,tier2
+chard_and_ilminster_news,"Chard and Ilminster News",GB,tier2
+malvern_gazette,"Malvern Gazette",GB,tier2
+the_bolton_news,"The Bolton News",GB,tier2
+hereford_times,"Hereford Times",GB,tier2
+slough_south_bucks_observer,"Slough & South Bucks Observer",GB,tier2
+leigh_journal,"Leigh Journal",GB,tier2
+herald_series,"Herald Series",GB,tier2
+keighly_news,"Keighley News",GB,tier2
+ledbury_reporter,"Ledbury Reporter",GB,tier2
+the_chorley_citizen,"The Chorley Citizen",GB,tier2
+epping_forest_guardian,"Epping Forest Guardian",GB,tier2
+witney_gazette,"Witney Gazette",GB,tier2
+halstead_gazette,"Halstead Gazette",GB,tier2
+hampshire_chronicle,"Hampshire Chronicle",GB,tier2
+dunfermline_press_and_west_of_fife_advertiser,"Dunfermline Press and West of Fife Advertiser",GB,tier2
+greenock_telegraph,"Greenock Telegraph ",GB,tier2
+mid_devon_star,"Mid Devon Star",GB,tier2
+swindon_advertiser,"Swindon Advertiser",GB,tier2
+messenger,Messenger,GB,tier2
+daily_gazette_essex_country_standard,"Daily Gazette & Essex Country Standard ",GB,tier2
+penarth_times,"Penarth Times ",GB,tier2
+campaign,"Campaign ",GB,tier2
+this_is_the_westcountry,"This is the westcountry",GB,tier2
+stourbridge_news,"Stourbridge News ",GB,tier2
+banbury_cake,"Banbury Cake",GB,tier2
+barry_district_news,"Barry & District News",GB,tier2
+darlington_aycliffe_sedgefield_the_advertiser,"Darlington, Aycliffe, & Sedgefield: The Advertiser",GB,tier2
+dumbarton_and_vale_leven_reporter,"Dumbarton and Vale Leven Reporter ",GB,tier2
+gazette_herald,"Gazette & Herald",GB,tier2
+bromsgrove_advertiser,"Bromsgrove Advertiser",GB,tier2
+wilts_and_gloucestershire_standard,"Wilts and Gloucestershire Standard",GB,tier2
+bournemoth_daily_echo,"Bournemoth Daily Echo",GB,tier2
+your_local_guardian,"Your Local Guardian",GB,tier2
+basildon_billericay_wickford_recorder,"Basildon, Billericay, Wickford Recorder",GB,tier2
+wimbledon_guardian,"Wimbledon Guardian",GB,tier2
+somerset_county_gazette,"Somerset County Gazette",GB,tier2
+chelmsford_weekly_news,"Chelmsford Weekly News",GB,tier2
+kingston_guardian,"Kingston Guardian",GB,tier2
+darlington_stockton_times,"Darlington & Stockton Times",GB,tier2
+knotsford_guardian,"Knutsford Guardian",GB,tier2
+newsroom_america,"Newsroom America",GB,tier2
+lunds_universitet,"Lunds Universitet ",GB,tier3
+allehanda,Allehanda,SE,tier2
+sverige_radio,"Sverige Radio",SE,tier3
+sydostran,Sydostran,SE,tier3
+sydsvenskan,Sydsvenskan,SE,tier3
+retriever,Retriever,US,tier2
+orsnkoldsvik,Örsnköldsvik,SE,tier2
+smarta_diabetiker,"Smarta Diabetiker ",SE,tier3
+new_historian,"New Historian",GB,tier3
+sundsvall_tidning,"Sundsvall Tidning",SE,tier2
+r_d_mag,"R&D Mag",US,tier3
+archaeology,Archaeology,US,tier3
+inrikes,Inrikes,SE,tier2
+pitea_tidningen,"Piteå Tidningen",SE,tier2
+folkbladet,Folkbladet,SE,tier2
+ystad_allehanda,"Ystad Allehanda",SE,tier2
+smalandsposten,Smålandsposten,SE,tier2
+kuriren,Kuriren,SE,tier2
+arkeoloji,"Arkeoloji ",TR,tier3
+nsd,NSD,SE,tier2
+deniz,Deniz,TR,tier2
+eat_globe,"Eat Globe",AT,tier3
+classic_cult,"Classic Cult",IT,tier3
+vtse,VTSE,SE,tier2
+na,NA,SE,tier2
+goteborgs_posten,Göteborgs-Posten,SE,tier2
+helsingborgs_dagblad,"Helsingborgs Dagblad",SE,tier2
+cssn,CSSN,CN,tier2
+news_fresh,"News Fresh",TH,tier3
+ein_newsdesk,"EIN Newsdesk",US,tier3
+good_news_from_finland,"Good News from Finland",FI,tier2
+33rd_square,"33rd Square",US,tier3
+post_online_media,"Post Online Media",US,tier3
+upriser,Upriser,US,tier3
+sharing_mode,"Sharing Mode",US,tier3
+indian_nova,"Indian Nova",IN,tier3
+fars_news_agency,"Fars News Agency",IR,tier2
+geeks_on_earth,"Geeks on Earth",US,tier3
+uusi_suomi,"Uusi Suomi",FI,tier2
+tekniika_talous,"Tekniika & Talous ",FI,tier3
+pohjalainen,Pohjalainen,FI,tier2
+talouselama,Talouselämä,FI,tier2
+tivi,Tivi,FI,tier2
+mtv,MTV,FI,tier3
+yle_arena,"YLE Arena",FI,tier3
+media_kaskas,"Media Kaskas",FI,tier3
+trends_dezukunft,"Trends Dezukunft",DE,tier3
+ko,Ko,RU,tier2
+fontaka,Fontaka,RU,tier3
+finugor,Finugor,RU,tier2
+futurist,Futurist,RU,tier3
+100_noticias,"100% Noticias ",NI,tier2
+elmifa,Elmifa,IR,tier3
+gco_news,"GCO News",US,tier3
+intrendio,Intrendio,US,tier3
+engineering_evil,"Engineering Evil",US,tier3
+el_alnormal,"El Alnormal",US,tier2
+odd_onion,"Odd Onion",US,tier4
+zme_science,"ZME Science",US,tier3
+wordless_tech,"Wordless Tech",US,tier3
+sogo_tech_news,"SOGO Tech News",GB,tier3
+quantum_computing_technology_australia,"Quantum Computing Technology Australia",AU,tier3
+cyber_parse,"Cyber Parse",GB,tier3
+aivanet,AIVAnet,US,tier3
+wccf_tech,"WCCF Tech",US,tier3
+bullfax,BullFax,US,tier3
+daily_voice_news,"Daily Voice News",US,tier3
+radio_jyvaskyla,"Radio Jyväskylä ",FI,tier2
+digitoday,Digitoday,FI,tier3
+keskisuomalainen,Keskisuomalainen,FI,tier2
+canarias,"Canarias &",ES,tier2
+osel,OSEL,CZ,tier3
+err_ee,ERR.ee,EE,tier2
+el_dias,"El Dias",ES,tier2
+hype_science,"Hype Science",BR,tier2
+aalto_yliopisto,Aalto-yliopisto,FI,tier3
+amherst_university,"Amherst University",US,tier3
+jyvaskylan_ilyopisto,"Jyväskylän Ilyopisto",FI,tier3
+denitas,Denitas,CA,tier3
+braintree_witham_times,"Braintree & Witham Times",GB,tier2
+gazette_series,"Gazette Series",GB,tier2
+tewkesbury_admag,"Tewkesbury AdMag ",GB,tier2
+romsey_advertiser,"Romsey Advertiser",GB,tier2
+dudley_news,"Dudley News",GB,tier2
+veneto_vox,"Veneto Vox",IT,tier3
+vicenza_today,"Vicenza Today ",IT,tier2
+il_gionarle_di_vicenza,"il Gionarle di Vicenza ",IT,tier2
+padova_news,"Padova News",IT,tier2
+littlehampton_gazette,"Littlehampton Gazette",GB,tier2
+lainformacion,Lainformacion,ES,tier3
+ilkley_gazette,"Ilkley Gazette",GB,tier2
+stroud_news_journal,"Stroud News & Journal",GB,tier2
+the_wear_valley_advertiser,"The Wear Valley Advertiser",GB,tier2
+fierce_biotech,"Fierce Biotech",US,tier3
+hillingdon_uxbridge_times,"Hillingdon & Uxbridge Times",GB,tier2
+fierce_pharam,"Fierce Pharma",US,tier3
+newmarket_journal,"Newmarket Journal",GB,tier2
+warrington_guardian,"Warrington Guardian",GB,tier2
+xconomy,Xconomy,US,tier3
+northamptonshire_telegraph,"Northamptonshire Telegraph",GB,tier2
+express_star,"Express & Star ",GB,tier2
+universade_de_porto,"Universade de Porto",PT,tier3
+the_extra,"The Extra",GB,tier2
+bt_news,"BT News",GB,tier1
+capital_madrid,"Capital Madrid",ES,tier2
+sic_noticias,"SIC Noticias",ES,tier2
+aged_care_insite,"Aged Care Insite",AU,tier3
+scientias,"Scientias ",NL,tier3
+eenadu_india,"Eenadu India",IN,tier2
+pour_la_science,"Pour La Science",FR,tier3
+university_of_edinburgh_news,"University of Edinburgh News",GB,tier3
+public_books,"Public Books",US,tier3
+pendulum,"Pendulum ",AL,tier3
+bioinsights,BioInsights,GB,tier3
+aktualne,Aktuálne,CZ,tier2
+cnrs_le_journal,"CNRS Le Journal",FR,tier3
+the_pioneer,"The Pioneer",IN,tier2
+greater_kashmir,"Greater Kashmir",IN,tier2
+nhrm_physician_group,"NHRM Physician Group",US,tier3
+egypt_independent,"Egypt Independent ",EG,tier2
+daily_objectivist,"Daily Objectivist",US,tier3
+the_coffs_coast_advocate,"The Coffs Coast Advocate",AU,tier2
+web_cipher,"Web Cipher",AU,tier3
+national_institute_of_health_and_care_excellence,"National Institute of Health and Care Excellence ",GB,tier1
+australia_policy_online,"Australia Policy Online",AU,tier3
+levante,Levante,ES,tier2
+revista_port,"Revista Port",PT,tier3
+vidactiva,Vidactiva,ES,tier3
+faro_de_vigo,"Faro de Vigo",ES,tier2
+diario_de_mallorca,"Diario de Mallorca",ES,tier2
+la_opinion_malaga,"La Opinión Málaga",ES,tier2
+la_nueva_espana,"La Nueva España",ES,tier2
+news_works,"News Works",US,tier2
+contemporary_obgyn,"Contemporary OBGYN",US,tier3
+rmf_24,"RMF 24",PL,tier2
+enews_park_forest,"eNews Park Forest",US,tier2
+neuroscience_news,"Neuroscience News",US,tier3
+past_horizons,"Past Horizons",GB,tier3
+culture_24,"Culture 24",GB,tier3
+market_business_news,"Market Business News",GB,tier3
+the_scarborough,"The Scarborough",GB,tier2
+the_arbiter_online,"The Arbiter Online",US,tier2
+sportskeeda_athletics,"Sportskeeda Athletics",IN,tier3
+tech_xplore,"Tech Xplore",US,tier3
+techtheday,TechTheDay,US,tier3
+360_bio,"360 Bio ",US,tier3
+cap_today,"Cap Today",US,tier3
+the_accoustic_ecology_institute,"The Accoustic Ecology Institute",US,tier3
+medical_newser,"Medical Newser",GB,tier3
+id_ea,ID-EA,SG,tier3
+wall_street_hedge,"Wall Street Hedge",US,tier2
+biotechnology_and_biological_sciences_research_council_bbsrc,"Biotechnology and Biological Sciences Research Council (BBSRC)",GB,tier3
+el_economista,"El Economista",ES,tier3
+food_tank,"Food Tank",US,tier3
+led_inside,"LED Inside",CN,tier3
+crewe_nantwich_guardian,"Crewe & Nantwich Guardian",GB,tier2
+surrey_comet,"Surrey Comet",GB,tier2
+richmond_twickenham_times,"Richmond & Twickenham Times",GB,tier2
+free_press,"Free Press",GB,tier2
+wiltshire_business,"Wiltshire Business",GB,tier2
+south_end_standard,"South End Standard",GB,tier2
+brentwood_weekly_news,"Brentwood Weekly News",GB,tier2
+belfast_telegraph,"Belfast Telegraph",GB,tier2
+bridport_news,"Bridport News",GB,tier2
+shropshire_star,"Shropshire Star",GB,tier2
+cumnock_chronicle,"Cumnock Chronicle",GB,tier2
+durham_advertiser,"Durham Advertiser",GB,tier2
+guelph_mercury,"Guelph Mercury",GB,tier2
+odisha_sun_times,"Odisha Sun Times",IN,tier2
+national_observer,"National Observer",CA,tier2
+the_peak,"The Peak",CA,tier3
+rcf,RCF,FR,tier3
+le_centre_national_de_la_recherche_scientifique,"Le Centre national de la recherche scientifique",FR,tier3
+new_zealand_doctor,"New Zealand Doctor",NZ,tier3
+het_nieusblad,"Het Nieusblad ",BE,tier2
+laoferta,LaOferta,US,tier2
+universidade_federal_do_espirito_santo,"Universidade Federal do Espírito Santo",BR,tier3
+ciencia_hoje,"Ciência Hoje ",BR,tier2
+pesquisa_fapesp,"Pesquisa Fapesp",BR,tier2
+nature_middle_east,"Nature Asia ",GB,tier3
+philenews,Philenews,GR,tier2
+navy_marine_species_monitoring,"Navy Marine Species Monitoring",US,tier3
+rosario3,Rosario3,AR,tier2
+news_nation,"News Nation",IN,tier2
+san_antonio_post,"San Antonio Post",US,tier2
+canadian_institute_for_advanced_research,"Canadian Institute for Advanced Research",CA,tier3
+the_nation_awakes,"The Nation Awakes",BD,tier2
+the_gazette,"The Gazette",US,tier2
+good_housekeeping,"Good Housekeeping",GB,tier1
+today_health,"Today Health",US,tier4
+wissenchaftler,Wissenchaftler,DE,tier3
+neueste_technologie_news,"Neueste Technologie News",DE,tier3
+obiectiv_de_suceava,"Obiectiv de Suceava",RO,tier2
+the_indian_subcontinent,"The Indian Subcontinent",IN,tier2
+fit_n_hit,"Fit N Hit",IN,tier2
+daily_times,"Daily Times",PK,tier2
+internet_sehat,"Internet Sehat",ID,tier3
+il_gionarle_di_monte_silvano,"il Gionarle di Monte Silvano",IT,tier2
+only_24_news,"Only 24 News",AU,tier2
+world_news_1,"World News 1",US,tier2
+freie_universitat_berlin,"Freie Universität Berlin",DE,tier3
+associations_now,"Associations Now",US,tier3
+irvine_times,"Irvine Times",GB,tier2
+dica_33,"Dica 33",IT,tier3
+latest_nigerian_news,"Latest Nigerian News",NG,tier2
+epimonitor,Epimonitor,US,tier3
+nw_sidebar,"NW Sidebar",US,tier3
+johns_hopkins_news_letter,"Johns-Hopkins News-Letter",US,tier3
+news_tv,"News TV",AT,tier2
+coastal_review_online,"Coastal Review Online",US,tier3
+united_nations_development_programme,"United Nations Development Programme",US,tier3
+practical_pain_management,"Practical Pain Management",US,tier3
+gciencia,Gciencia,ES,tier2
+inverse,Inverse,US,tier3
+diario_26,"Diario 26",AR,tier2
+physics_of_information_and_quantum_technologies_group,"Physics of Information and Quantum Technologies Group",PT,tier3
+the_science_tribune,"The Science Tribune",US,tier3
+watertown_daily_times,"Watertown Daily Times",US,tier2
+wide_open_spaces,"Wide Open Spaces",US,tier3
+q13_fox,"Q13 Fox ",US,tier2
+kitsap_sun,"Kitsap Sun",US,tier2
+columbia_basin_bulletin,"Columbia Basin Bulletin",US,tier2
+news_tribune,"News Tribune",US,tier2
+the_daily_meal,"The Daily Meal",US,tier3
+the_weather_channel_uk,"The Weather Channel UK",GB,tier3
+usa_uk_online,"USA-UK Online",US,tier3
+good,Good,IS,tier3
+the_bellingham_herald,"The Bellingham Herald",US,tier2
+atlantic_broadband,"Atlantic Broadband",US,tier3
+the_chronicle,"The Chronicle",US,tier2
+sporting_classics_daily,"Sporting Classics Daily",US,tier3
+arcamax,Arcamax,US,tier2
+development_and_cooperation,"Development and Cooperation",DE,tier3
+asia_today,"Asia Today",KR,tier2
+euractiv,EurActiv,DE,tier2
+ipp_media,"IPP Media",TZ,tier2
+tralac,Tralac,ZA,tier3
+daily_news_tanzania,"Daily News Tanzania",TZ,tier2
+peoples_democracy,"Peoples Democracy",IN,tier3
+yahoo_finance_australia,"Yahoo! Finance Australia",AU,tier1
+new_africa_analysis,"New Africa Analysis",GB,tier2
+worldstage_news,"WorldStage News",NG,tier2
+uncova,Uncova,NG,tier2
+chimp_reports,"Chimp Reports",UG,tier2
+the_new_times,"The New Times",RW,tier2
+business_today_nigeria,"Business Today Nigeria",NG,tier2
+idn_indepth_news,"IDN - InDepth News",DE,tier3
+the_sofia_globe,"The Sofia Globe",BG,tier2
+globe_net,GLOBE-Net,CA,tier3
+the_bakersfield_californian,"The Bakersfield Californian",US,tier2
+atlas_obscura,"Atlas Obscura",US,tier3
+the_tampa_bay_tribune,"The Tampa Bay Tribune",US,tier2
+trade_arabia,"Trade Arabia",SA,tier3
+muscat_daily,"Muscat Daily ",US,tier2
+wvxu,WVXU,US,tier2
+kuow,KUOW,US,tier2
+kosu,KOSU,US,tier2
+tv2,TV2,DK,tier2
+hayling_islander,"Hayling Islander",GB,tier2
+hastings_and_st_leonards_observer,"Hastings and St.Leonards Observer",GB,tier2
+bexhill_on_sea_observer,"Bexhill-on-Sea Observer",GB,tier2
+bognor_regis_observer,"Bognor Regis Observer",GB,tier2
+chichester_observer,"Chichester Observer",GB,tier2
+eastbourne_herald,"Eastbourne Herald",GB,tier2
+eurasia_review,"Eurasia Review",US,tier3
+crawley_and_horley_observer,"Crawley and Horley Observer",GB,tier2
+guernsey_press,"Guernsey Press",GB,tier2
+midhurst_and_petworth_observer,"Midhurst and Petworth Observer",GB,tier2
+the_portsmouth_news,"The Portsmouth News",GB,tier2
+mid_sussex_times,"Mid Sussex Times",GB,tier2
+shoreham_herald,"Shoreham Herald",GB,tier2
+west_sussex_gazette,"West Sussex Gazette",GB,tier2
+rye_and_battle_observer,"Rye and Battle Observer",GB,tier2
+west_sussex_county_times,"West Sussex County Times",GB,tier2
+worthing_herald,"Worthing Herald",GB,tier2
+jersey_evening_post,"Jersey Evening Post",GB,tier2
+planete_f,"Planète F",FR,tier3
+northwest_indiana_times,"Northwest Indiana Times",US,tier2
+age_times,"Age Times",US,tier3
+scifeeds,SciFeeds,US,tier3
+university_of_calgary,"University of Calgary",CA,tier3
+university_of_toronto,"University of Toronto",CA,tier3
+university_of_surrey,"University of Surrey",GB,tier3
+nationen,Nationen,NO,tier2
+meridian_institute,"Meridian Institute",US,tier3
+institute_of_agricultural_science_for_southern_vietnam,"Institute of Agricultural Science for Southern Vietnam",VN,tier3
+scienmag,ScienMag,GB,tier3
+global_plant_council,"Global Plant Council",GB,tier3
+yorkshire_evening_post,"Yorkshire Evening Post",GB,tier2
+about_manchester,"About Manchester",GB,tier3
+institut_curie,"Institut Curie",FR,tier3
+earth_space_science_news,"Earth & Space Science News",US,tier3
+water_supply_and_sanitation_collaborative_council,"Water Supply and Sanitation Collaborative Council",CH,tier3
+science_space_robots,"Science, Space & Robots ",US,tier3
+stepfeed,StepFeed,AE,tier3
+wvtf,WVTF,US,tier2
+delmarva_public_radio,"Delmarva Public Radio",US,tier2
+am370,AM370,CN,tier2
+citynews,CityNews,CA,tier1
+medium,Medium,US,tier4
+infosalut,Infosalut,ES,tier3
+the_national,"The National",AE,tier2
+harvard_public_health_review,"Harvard Public Health Review",US,tier1
+the_university_of_queensland,"The University of Queensland",AU,tier3
+illawarra_mercury,"Illawarra Mercury",AU,tier3
+the_economist_1843,"The Economist 1843",US,tier1
+hacked,Hacked,US,
+byu_law,"BYU Law",US,"tier3 "
+sabq,SABQ,US,tier3
+chronicle_of_philathropy,"Chronicle of Philanthropy",US,tier3
+christianity_today,"Christianity Today",US,tier3
+tricycle,"Tricycle ",US,tier3
+cochrane,Cochrane,US,tier3
+sickkids_hospital,"SickKids Hospital",CA,tier3
+glyconet,GlycoNet,CA,tier3
+leicester_mercury,"Leicester Mercury",GB,tier2
+loughborough_echo,"Loughborough Echo",GB,tier2
+inside_higher_ed,"Inside Higher Ed",US,tier3
+russia_beyond_the_headlines,"Russia Beyond the Headlines ",RU,tier2
+institut_pasteur,"Institut Pasteur",FR,tier3
+the_medical_independent,"The Medical Independent",IE,tier3
+fight_for_sight,"Fight for sight",GB,tier3
+daily_world_india,"Daily World (India)",IN,tier2
+bryn_mawr_classical_review,"Bryn Mawr Classical Review",US,tier3
+lse_review_of_books,"LSE Review of Books",GB,tier3
+the_times_literary_supplement,"The Times Literary Supplement",GB,tier3
+cbrne_world,"CBRNe World",US,tier3
+polish_press_agency,"Polish Press Agency ",PL,tier1
+sobota_info,"Sobota Info",SI,tier2
+reporter,Reporter,SI,tier2
+primorske_novice,"Primorske Novice",SI,tier2
+demokracija,Demokracija,SI,tier2
+pomurec,Pomurec,SI,tier2
+thinkadvisor,ThinkAdvisor,US,tier3
+pensions_investments,"Pensions & Investments",US,tier3
+ir_magazine,"IR Magazine",US,tier3
+financial_advisor,"Financial Advisor",US,tier3
+benefitspro,BenefitsPro,US,tier3
+consumer_reports,"Consumer Reports",US,tier3
+piqua_daily_call,"Piqua Daily Call",US,tier2
+daily_nebraskan,"Daily Nebraskan",US,tier2
+dallas_news,"Dallas News",US,tier2
+employee_benefits_news,"Employee Benefits News",US,tier3
+healthcare_daily_online,"Healthcare Daily Online",US,tier3
+health_leaders_media,"Health Leaders Media",US,tier3
+mcclatchy_dc,"McClatchy DC",US,tier2
+the_modesto_bee,"The Modesto Bee",US,tier2
+politifact,Politifact,US,tier3
+portland_business_journal,"Portland Business Journal",US,tier2
+business_journal,"Business Journal",US,tier3
+statesman_journal,"Statesman Journal",US,tier2
+sun_herald,"Sun Herald",US,tier2
+talking_points_memo,"Talking Points Memo",US,tier3
+tulsa_world,"Tulsa World",US,tier2
+open_the_magazine,"Open The Magazine ",IN,tier1
+university_of_kentucky_news,"University of Kentucky News",US,tier3
+nanotechweb,Nanotechweb,GB,tier3
+medicalphysicsweb,Medicalphysicsweb,GB,tier3
+the_national_law_review,"The National Law Review",US,tier3
+neurology_advisor,"Neurology Advisor ",US,tier3
+kathmandu_post,"Kathmandu Post",NP,tier2
+caspar_star_tribune,"Caspar Star Tribune",US,tier2
+news_ghana,"News Ghana ",GH,tier2
+biotecnika,BioTecNika,US,tier3
+oceana,Oceana,US,tier3
+business_review,"Business Review",NO,tier3
+endocrinology_advisor,"Endocrinology Advisor",US,tier3
+kyrgystan_news,"Kyrgystan News ",KG,tier2
+government_of_montserrat_news,"Government of Montserrat News ",MS,tier2
+transitions_online,"Transitions Online",TM,tier2
+daily_observer,"Daily Observer",GM,tier2
+kuam_news,"Kuam News",GU,tier2
+classics_for_all,"Classics for All",GB,
+notre_dame_philosophical_reviews,"Notre Dame Philosophical Reviews",US,
+publishers_weekly,"Publishers Weekly ",US,tier3
+medical_news_bulletin,"Medical News Bulletin ",US,tier3
+drugcom,Drugcom,DE,tier3
+parkinsons_disease_foundation,"Parkinson's Disease Foundation ",US,tier3
+lewy_body_dementia_association,"Lewy Body Dementia Association",US,tier3
+safety_and_health_magazine,"Safety and Health Magazine",US,tier3
+antipode_foundation,"Antipode Foundation",US,tier3
+pourquoi_docteur,"Pourquoi Docteur ",FR,tier3
+knack,Knack,BE,tier3
+the_body,"The Body",US,tier3
+virginia_tech,"Virginia Tech",US,tier3
+occupational_health_safety,"Occupational Health & Safety",US,tier3
+university_of_western_australia,"University of Western Australia",AU,tier3
+sun_news_report,"Sun News Report",US,tier3
+orthopedics_this_week,"Orthopedics This Week",US,tier3
+cardiovascular_business,"Cardiovascular Business",US,tier3
+3d_printing_industry,"3D Printing Industry",GB,tier3
+charleston_gazette_mail,"Charleston Gazette Mail",US,tier3
+kek,Kek,JP,tier3
+cana_news_online,"Cana News Online ",BB,tier2
+the_jamaica_gleaner,"The Jamaica Gleaner",JM,tier2
+barbados_nation,"Barbados Nation",BB,tier2
+barbados_advocate,"Barbados Advocate",BB,tier2
+the_royal_gazette,"The Royal Gazette",BM,tier2
+gramma,Gramma,CU,tier2
+caribbean_news_now,"Caribbean News Now!",GD,tier2
+haiti_progres,"Haiti Progres",HT,tier2
+the_montserrat_reporter_online,"The Montserrat Reporter Online",MS,tier2
+the_daily_herald_st_maarten,"The Daily Herald (St. Maarten)",SX,tier2
+puerto_rico_herald,"Puerto Rico Herald",US,tier2
+tobago_today,"Tobago Today",TT,tier2
+caribpr_wire,"CaribPR Wire ",KY,tier2
+caricom_news_network,"Caricom News Network",JM,tier2
+guadeloupe_1ere,"Guadeloupe 1ère",GP,tier2
+cayman_news_service,"Cayman News Service",KY,tier2
+cayman_compass,"Cayman Compass",KY,tier2
+the_cayman_reporter,"The Cayman Reporter",KY,tier2
+boletin_extra,"boletin eXtra",AW,tier2
+bondia_24,"Bondia 24",AW,tier2
+dominica_weekly,"Dominica Weekly",DM,tier2
+zananas,Zananas,MQ,tier2
+haiti_gazette,"Haiti Gazette",HT,tier2
+tout_haiti,"Tout Haiti",HT,tier2
+ayiti_news,"Ayiti News",HT,tier2
+haiti_news,"Haiti News",HT,tier2
+haiti_libre,"Haiti Libre ",HT,tier2
+dominica_news_online,"Dominica News Online",DM,tier2
+the_sun_dominica,"The Sun (Dominica)",DM,tier2
+st_baths_online,"St. Baths Online",BL,tier2
+curacao_chronicle,"Curaçao Chronicle",CW,tier2
+curacao_guardian,"Curaçao Guardian",CW,tier2
+noticias_curacao,"Noticias Curaçao ",CW,tier2
+townsville_bulletin,"Townsville Bulletin",AU,tier3
+historici_netherlands,"Historici Netherlands",NL,tier3
+resource_flows_data,"Resource Flows Data",NL,tier3
+critical_care_reviews,"Critical Care Reviews",GB,tier3
+the_cairns_post,"The Cairns Post",AU,tier2
+australian_institute_of_marine_science,"Australian Institute of Marine Science",AU,tier3
+australian_national_data_service,"Australian National Data Service",AU,tier2
+news_corp_australia,"News Corp Australia",AU,tier2
+the_mareeba_express,"The Mareeba Express",AU,tier2
+newsport_australia,"Newsport (Australia)",AU,tier2
+warrego_watchman,"Warrego Watchman",AU,tier2
+queensland_country_life,"Queensland Country Life",AU,tier2
+abc_north_queensland,"ABC North Queensland",AU,tier2
+bowen_independent,"Bowen Independent",AU,tier2
+daily_mercury,"Daily Mercury",AU,tier2
+the_northern_miner,"The Northern Miner",AU,tier3
+the_north_west_star,"The North West Star",AU,tier2
+goulbourn_post,"Goulbourn Post",AU,tier2
+alankabout,Alankabout,AU,tier2
+australian_daily,"Australian Daily",AU,tier2
+the_border_mail,"The Border Mail",AU,tier2
+australian_financial_review,"Australian Financial Review",AU,tier2
+innisfail_province,"Innisfail Province",AU,tier2
+revista_moi,"Revista Moi",MX,tier4
+national_health_and_medical_research_council,"National Health and Medical Research Council",AU,tier3
+australian_research_council,"Australian Research Council",AU,tier3
+australian_legal_information_institute,"Australian Legal Information Institute",AU,tier3
+high_court_of_australia,"High Court of Australia",AU,tier3
+media_centre_for_education_research,"Media Centre for Education Research",AU,tier3
+cooperative_research_centres_association,"Cooperative Research Centres Association",AU,tier3
+natural_history_museum,"Natural History Museum",GB,tier3
+the_wire,"The Wire",IN,tier3
+ndtv,NDTV,IN,tier2
+capes_foundation,"CAPES Foundation",BR,tier3
+the_physiological_society,"The Physiological Society",US,tier3
+rocky_mountain_mirecc_for_va_suicide_prevention,"Rocky Mountain MIRECC for VA Suicide Prevention",US,tier3
+fiercepharma,FiercePharma,US,tier3
+the_scottish_sun,"The Scottish Sun",GB,tier4
+seeker,Seeker,US,tier3
+newcastle_news,"Newcastle News",AU,tier2
+cu_boulder_school_of_medicine,"CU Boulder - School of Medicine",US,tier3
+national_center_for_atmospheric_research,"National Center for Atmospheric Research ",US,tier3
+global_focus,"Global Focus",US,tier3
+university_world_news,"University World News",US,tier3
+metro_netherlands,"Metro Netherlands",NL,tier2
+reformatorisch_dagblad,"Reformatorisch Dagblad",NL,tier2
+dagblad_noorden,"Dagblad Noorden",NL,tier2
+bird_guides,"Bird Guides",US,tier3
+s_trf,S&TRF,RU,tier3
+poisk_news,"Poisk News",RU,tier3
+c_news_russia,"C News Russia",RU,tier2
+rscf,RSCF,RU,tier3
+ministry_of_education_in_the_russian_federation,"Ministry of Education in the Russian Federation",RU,tier3
+5100,5100,RU,tier3
+study_in_russia,"Study in Russia",RU,tier4
+rbc_daily,"RBC Daily",RU,tier2
+baltinfo,Baltinfo,RU,tier2
+rscur,RSCUR,RU,tier2
+media_rupor,"Media Rupor",RU,tier2
+grani,Grani,RU,tier2
+newsroom,Newsroom,NZ,tier2
+rare_bird_alert,"Rare Bird Alert",GB,tier3
+de_limburger,"De Limburger",NL,tier2
+de_gelderlander,"de Gelderlander",NL,tier2
+noordhollands_dagblad,"Noordhollands Dagblad",NL,tier2
+destentor,DeStentor,NL,tier2
+bd,BD,NL,tier2
+tubantia,Tubantia,NL,tier2
+bn_destem,"BN DeStem",NL,tier2
+leewarder_courant,"Leewarder Courant",NL,tier2
+pzc,PZC,NL,tier2
+haarlem_dagblad,"Haarlem Dagblad",NL,tier2
+ijmuider_courant,"IJmuider Courant",NL,tier2
+the_gooi_and_eemlander,"The Gooi and Eemlander",NL,tier2
+fries_dagblad,"Fries Dagblad",NL,tier2
+barneveldse_krant,"Barneveldse Krant",NL,tier2
+the_pool,"The Pool",GB,tier3
+health_news_review,"Health News Review",US,tier3
+bowel_cancer_uk,"Bowel Cancer UK",GB,tier3
+university_of_exeter,"University of Exeter",GB,tier3
+murdoch_university,"Murdoch University",AU,tier3
+cailiaoniu,cailiaoniu,CN,tier3
+vbio,VBIO,DE,tier3
+carbon_brief,"Carbon Brief",US,tier3
+r_d_today,"R&D Today",US,tier3
+aip_press_releases,"AIP Press Releases",US,tier3
+all_about_birds,"All About Birds",US,tier3
+advances_in_engineering,"Advances In Engineering",US,tier3
+novus_light,"NOVUS Light",US,tier3
+illumni,illumni,US,tier3
+optics_org,Optics.org,US,tier4
+biophotonics_world,"Biophotonics World",US,tier3
+electronic_specifier,"Electronic Specifier",US,tier3
+the_science_breaker,"The Science Breaker",CH,tier3
+the_science_times,"The Science Times",KR,tier3
+neurotechnologies_russia,"Neurotechnologies Russia",RU,tier3
+materials_views_china,"Materials Views China",CN,tier3
+national_institute_for_materials_science,"National Institute for Materials Science",JP,
+hutch_news,"Hutch News",US,
+insect_genetic_technologies,"Insect Genetic Technologies",US,tier3
+genome_web,"Genome Web",US,tier3
+quarkish,Quarkish,US,
+mirconow,Mirconow,US,tier3
+coastal_leader,"Coastal Leader",AU,tier2
+eduskunta_riksdagen,"Eduskunta Riksdagen",FI,tier3
+valtioneuvosto,Valtioneuvosto,FI,tier3
+yritys_suomi,YRITYS-SUOMI,FI,tier3
+kansanelakelaitos,Kansaneläkelaitos,FI,tier4
+bloomberg_bna,"Bloomberg BNA",US,tier3
+e_e_news,"E & E News",US,tier3
+environmental_health_perspectives,"Environmental Health Perspectives",US,tier3
+greenpeace_greenwire,"Greenpeace Greenwire",US,
+inside_epa,"Inside EPA",US,tier3
+the_intercept,"The Intercept",US,tier3
+the_washington_free_beacon,"The Washington Free Beacon",US,tier2
+el_khabar,"el Khabar",DZ,tier1
+laraignee,L'Araignee,BJ,tier2
+sidwaya,Sidwaya,BF,tier2
+sangonet,Sangonet,CF,
+al_watwan,"al Watwan",KM,tier2
+dehai_eritrea_online,"Dehai Eritrea Online",ER,tier2
+walta_information_centre,"Walta Information Centre",ET,tier2
+ghana_review_international,"Ghana Review International",GH,tier2
+the_new_statesman_online,"The New Statesman Online",GH,tier2
+notre_voie,"Notre Voie",CI,tier2
+le_patriote,"Le Patriote",CI,tier2
+optometry_today,"Optometry Today",US,tier3
+infectious_disease_hub,"Infectious Disease Hub",US,tier3
+american_academy_of_ophthalmology,"American Academy of Ophthalmology",US,tier3
+nouvelle_europe,"Nouvelle Europe",FR,tier3
+agritech_east,Agritech-East,GB,tier3
+ktla,KTLA,US,tier4
+aln,ALN,US,tier3
+one_news_page,"One News Page",US,tier4
+9_news,"9 News",AU,tier4
+geo_tv,Geo.tv,US,tier4
+france24,France24,FR,tier2
+entrepreneur,"Entrepreneur ",US,tier3
+rfd_tv,"RFD TV",US,tier4
+zululand_observer,"Zululand Observer",ZA,tier2
+anda,ANDA,BR,tier3
+northeastern_news,"NorthEastern News",ZA,tier4
+cadena_ser,"Cadena SER",PT,tier2
+voz_libre,"Voz Libre",PT,tier2
+telecinco,Telecinco,ES,tier4
+mundiario,Mundiario,ES,tier2
+the_daily_galaxy,"The Daily Galaxy",US,tier3
+irish_health,"Irish Health",IE,tier3
+true_viral_news,"True Viral News",RU,tier4
+community_care,"Community Care",GB,tier3
+diari_de_tarragona,"Diari de Tarragona",ES,tier2
+diaro_de_asturias,"Diaro de Asturias",ES,tier2
+long_room,"Long Room",US,tier4
+manchester_evening_news,"Manchester Evening News",GB,tier2
+bioengineering_today,"Bioengineering Today",US,tier3
+aas_nova,"AAS Nova",US,tier3
+newshub,Newshub,NZ,tier2
+geographical_magazine,"Geographical Magazine ",GB,tier3
+express_polish,"Express Polish",PL,tier2
+tn8,tn8,NI,tier2
+tuxi,Tuxi,CN,tier3
+ebiotrade,Ebiotrade,CN,tier3
+microscopy_and_analysis,"Microscopy and Analysis",GB,tier3
+mwee,MWEE,BE,tier3
+pv_magazine,"PV Magazine",GB,tier3
+the_financial_express_dhaka,"The Financial Express (Dhaka)",BD,tier3
+aol_uk,"AOL (UK)",GB,tier2
+evening_express,"Evening Express",GB,tier2
+news_and_star,"News and Star",GB,tier2
+the_mail,"The Mail ",GB,tier2
+bunbury_mail,"Bunbury Mail",AU,tier2
+bendigo_advertiser,"Bendigo Advertiser",AU,tier2
+science_mission,"Science Mission",US,tier3
+forces,"Forces ",GB,tier3
+orizzont_energia,"Orizzont Energia",IT,tier3
+yohap_news,"Yohap News ",KP,tier2
+financial_tribune,"Financial Tribune ",IR,tier3
+jornal_de_angola,"Jornal de Angola",AO,tier2
+t13,T13,CO,tier2
+7sur7,7sur7,PL,tier4
+lastminute_info,LastMinute.info,CM,tier2
+vdi_nachrichten,"VDI Nachrichten",DE,tier3
+the_daily_star_bangladesh,"The Daily Star (Bangladesh)",BD,tier2
+financial_tribune_bangladesh,"Financial Tribune (Bangladesh)",BD,tier3
+the_independent_bangladesh,"The Independent (Bangladesh)",BD,tier2
+the_daily_new_age,"The Daily New Age",BD,tier2
+the_new_nation,"The New Nation",BD,tier2
+the_daily_sun_bangladesh,"The Daily Sun (Bangladesh)",BD,tier2
+the_bangladesh_today,"The Bangladesh Today",BD,tier2
+prothom_alto,"Prothom Alto",BD,tier2
+alnilin,Alnilin,SD,tier2
+ennahar_online,"Ennahar Online",DZ,tier2
+el_watan,"El Watan ",DZ,tier2
+le_quotidien_doran,"Le Quotidien d'Oran",DZ,tier2
+le_soir_dalgerie,"Le Soir d'Algerie",DZ,tier2
+angola_press,"Angola Press ",AO,tier2
+sapo_noticias_angola,"Sapo Noticias Angola ",AO,tier2
+infosbeninmonde_com,"InfosBeninMonde.com ",BJ,tier2
+24_heures_au_benin,"24 Heures au Bénin ",BJ,tier2
+mmegi_online,"Mmegi Online ",BW,tier2
+daily_news_botswana,"Daily News Botswana ",BW,tier2
+aouaga_com,"AOuaga.com ",BF,tier2
+zimbabwe_daily,"Zimbabwe Daily ",ZW,tier2
+iwacu,IWACU,BI,tier2
+africa_news_hub,"Africa News Hub ",CM,tier2
+journal_du_cameroun,"Journal du Cameroun ",CM,tier2
+cameroon_tribune,"Cameroon Tribune ",CM,tier2
+infor,Infor,CV,tier2
+a_nacao,"A Nação ",CV,tier2
+radio_ndeke_luka,"Radio Ndeke Luka ",CF,tier2
+alwihda_info,"Alwihda Info ",TD,tier2
+tchadien_info,"Tchadien.info ",TD,tier2
+mayotte_la1ere,"Mayotte La1ere ",KM,tier2
+mediacongo,Mediacongo,CD,tier2
+7sur7_cd,"7sur7.cd ",CD,tier2
+acp_media_public,"ACP Média Public",CD,tier2
+radio_okapi,"Radio Okapi ",CD,tier2
+akhbarelyom,"Akhbarelyom ",EG,tier2
+al_joumhouria,"Al-Joumhouria ",EG,tier2
+al_ahram,"Al Ahram ",EG,tier2
+almesryoon,Almesryoon,EG,tier2
+amwal_al_ghad,"Amwal Al Ghad ",EG,tier2
+elfagr,Elfagr,EG,tier2
+masress_com,"Masress.com ",EG,tier2
+youm7,Youm7,EG,tier2
+dostor,Dostor,EG,tier2
+diretube,DireTube,ET,tier2
+ethiogrio,EthioGrio,ET,tier2
+spectroscopy_now,"Spectroscopy Now",US,tier3
+acp_internist,"ACP Internist ",US,tier3
+the_federation_of_european_biochemical_societies,"The Federation of European Biochemical Societies",BE,tier3
+aap_publications,"AAP Publications",US,tier3
+american_academy_of_pediatrics,"American Academy of Pediatrics ",US,tier3
+texas_a_m,"Texas A&M ",US,tier2
+the_battalion,"The Battalion ",US,tier2
+the_eagle,"The Eagle",US,tier2
+agrilife,AgriLife,US,tier3
+kbtx_tv,KBTX-TV,US,tier2
+the_chronicle_of_higher_education_united_states,"The Chronicle of Higher Education - United States",US,tier3
