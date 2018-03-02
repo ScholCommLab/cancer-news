@@ -8,4 +8,6 @@ data/
 
 *.db
 
-download_data/altmetrics/config\.cnf
+*/config\.cnf
+
+\.RData

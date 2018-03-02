@@ -3,17 +3,14 @@
 ## Script purpose: Main script for PubMed data pipeline
 ## Date: 04.10.2017
 ## Author: Asura Enkhbayar
-##################################################
+####################################################
 
-source("get_pubmed/fetch_pubmed_data.R")
-source("get_pubmed/transform_data.R")
-source("get_pubmed/merge_data.R")
+source("pubmed/fetch.R")
+source("pubmed/transform.R")
 
 # Paths
-orig_path <- "./data/original/"
-format_path <- "./data/formatted/"
-merge_path <- "./data/"
-
+output_path = "../data/rerun/"
+orig_path <- paste0(output_path, "original/")
 
 # Get data
 keywords <- "(neoplasm [mesh] OR \"neoplasm metastasis\" [mesh] OR cancer*[tiab] OR malign*[tiab] OR neoplas*[tiab] OR oncolo*[tiab] OR metasta*[tiab] OR tumor*[tiab] OR tumour*[tiab])"
@@ -21,10 +18,6 @@ filters <- "(\"research support, american recovery and reinvestment act\"[Public
 daterange <- "(\"2016/01/01\"[Date - Publication] : \"2016/12/31\"[Date - Publication])"
 query <- paste(keywords, filters, daterange, sep = " AND ")
 
+# Scripts
 fetch_pubmed_data(query, orig_path)
-
-# Transform data
-transform_data(orig_path, format_path)
-
-# Merge files
-merge_data(format_path, merge_path)
+transform_data(orig_path, output_path)

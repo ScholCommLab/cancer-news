@@ -15,29 +15,30 @@ transform_data <- function(input_folder, output_folder) {
   file.names <- dir(input_folder, pattern ="json")
   file_index <- 1
   
+  df <- data.frame(pmid=integer(),
+                   doi=character(),
+                   title=character(),
+                   journal=character(),
+                   pub_year=integer(),
+                   pub_types=character(),
+                   mesh_terms=character(),
+                   grants=character(),
+                   authors=character(),
+                   author_affils=character(),
+                   stringsAsFactors = FALSE)
+  
   for (file in file.names) {
     records = read_json(paste0(input_folder, file))
-
-    # init data frame
-    column_names <- c("pmid", "doi", "title", "journal", "pub_year", "pub_types", "mesh_terms", "grants", "authors", "author_affils")
-    df <- data.frame(matrix(ncol = length(column_names), nrow = length(records)))
-    colnames(df) <- column_names
-    
-    # iterate over records and read out needed data
-    row_index = 1
     for (record in records) {
       # title, journal, pubdate (ArticleDate)
-      pub_year <- record$MedlineCitation$DateCreated$Year[[1]]
+      pub_year <- 2016
       title <- record$MedlineCitation$Article$ArticleTitle[[1]]
       journal <- record$MedlineCitation$Article$Journal$Title[[1]]
-
+      
       # PMID & DOI
       ids <- record$PubmedData$ArticleIdList
       pmid <- ids[[match("pubmed", sapply(ids, "[[", ".attrs"))]]$text[[1]]
       doi <- ids[[match("doi", sapply(ids, "[[", ".attrs"))]]$text[[1]]
-      if (is.null(doi)) {
-        doi <- "NA"
-      }
       
       # Author Information
       authors <- list()
@@ -48,43 +49,45 @@ transform_data <- function(input_folder, output_folder) {
           author_affils <- "NA"
         } else {
           for (author in record$MedlineCitation$Article$AuthorList) {
-            authors <- c(authors, paste(author$ForeName[[1]], author$LastName[[1]]))
+            authors[[length(authors)+1]] <- paste(author$ForeName[[1]], author$LastName[[1]])
             affil <- author$AffiliationInfo$Affiliation[[1]]
-            affil <- if(is.null(affil)) "NA" else affil
-            author_affils <- c(author_affils, affil)
+            if (is.null(affil)) {
+              affil = "NA"
+            }
+            author_affils[[length(author_affils)+1]] <- affil
           }
         }
       } else {
         authors <- "NA"
         author_affils <- "NA"
       }
-      authors = toJSON(unlist(authors))
-      author_affils = toJSON(unlist(author_affils))
+      authors = authors
+      author_affils = author_affils
       
       # MeSH terms
       mesh_desc = c()
       mesh_qual = list()
       for (mesh_item in record$MedlineCitation$MeshHeadingList) {
-        mesh_desc = c(mesh_desc, tolower(mesh_item$DescriptorName$text))
+        mesh_desc = c(mesh_desc, mesh_item$DescriptorName$text)
         
         if (length(mesh_item) == 1) {
           mesh_qual = c(mesh_qual, "NA")
         } else {
           x = c()
           for (item in mesh_item[-1]) {
-            x = c(x, tolower(item$text[[1]]))
+            x = c(x, item$text[[1]])
           }
           mesh_qual[[length(mesh_qual)+1]] <- x
         }
       }
       names(mesh_qual) <- mesh_desc
-      mesh_object <- toJSON(mesh_qual)
+      mesh_object <- mesh_qual
       
       # Publicatoin
-      pub_types <- toJSON(unlist(sapply(record$MedlineCitation$Article$PublicationTypeList, "[[", "text")))
-
+      pub_types <- sapply(record$MedlineCitation$Article$PublicationTypeList, function(x)return(x$text[[1]]))
+      
       # Grants
-      grants <- toJSON(unlist(sapply(head(record$MedlineCitation$Article$GrantList,-1), function(x)return(x$GrantID[[1]]))))
+      grants = sapply(head(record$MedlineCitation$Article$GrantList,-1), function(x)return(x$GrantID[[1]]))
       
       # Debugging output and problematic rows
       # print(paste0("==== RECORD ", row_index, " ===="))
@@ -98,15 +101,25 @@ transform_data <- function(input_folder, output_folder) {
       # print(grants)
       # print(authors)
       # print(author_affils)
+
+      article = list(as.numeric(pmid),
+                  toString(doi),
+                  toString(title),
+                  toString(journal),
+                  as.numeric(pub_year),
+                  toJSON(pub_types),
+                  toJSON(mesh_object),
+                  toJSON(grants),
+                  toJSON(unlist(authors)),
+                  toJSON(unlist(author_affils)))
+      article = lapply(article, function(x)if (x == "[]") return("") else return(x))
       
-      article = list(pmid, doi, title, journal, pub_year, pub_types, mesh_object, grants, authors, author_affils)
-      df[row_index, ] <- article
-      
-      row_index <- row_index + 1
+      df[nrow(df)+1,] <- article
     }
-    
-    write.csv(df, paste0(output_folder, "/records_", file_index, ".csv"), row.names=FALSE)
+
     message(paste0("Processed file ", file_index, " out of ", length(file.names)))
     file_index <- file_index + 1
   }
+  
+  write_file(toJSON(df), paste0(output_folder, "/cancer_data.json"))
 }
