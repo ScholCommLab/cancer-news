@@ -15,7 +15,7 @@ Config.read('config.cnf')
 ALTMETRIC_KEY = Config.get('altmetric', 'key')
 altmetric = Altmetric(api_key = ALTMETRIC_KEY)
 
-df = pd.read_json("../../data/rerun/cancer_data.json")
+df = pd.read_csv("../pmid_ids.csv")
 out = pd.DataFrame(index=df.pmid, columns=["am_resp", "am_err", "ts"])
 
 for pmid in tqdm(out.index.tolist()):
@@ -32,4 +32,4 @@ for pmid in tqdm(out.index.tolist()):
     out.loc[pmid, 'am_err'] = str(am_err)
     out.loc[pmid, 'ts'] = str(now)
     
-out.to_csv("../../data/rerun/altmetrics.csv")
+out.to_csv("altmetrics.csv")
