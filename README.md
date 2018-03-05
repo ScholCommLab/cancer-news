@@ -18,7 +18,7 @@ In order to reproduce the data you need to copy `example_config.yml` to `config.
 
 **1. Collect PubMed data**
 
-```Rscript a.R```
+```Rscript 01_collect_pubmed.R```
 
 **2. Collect altmetrics from Altmetric.com**
 
