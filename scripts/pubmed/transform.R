@@ -9,7 +9,7 @@ require(jsonlite)
 
 # Reads, transforms, and saves all input json files in the input folder
 # and saves them as CSV files in the output_folder
-transform_data <- function(input_folder, output_folder) {
+transform_data <- function(input_folder, output_folder, verbose=FALSE) {
   
   # Read data
   file.names <- dir(input_folder, pattern ="json")
@@ -31,7 +31,13 @@ transform_data <- function(input_folder, output_folder) {
     records = read_json(paste0(input_folder, file))
     for (record in records) {
       # title, journal, pubdate (ArticleDate)
-      pub_year <- 2016
+      pub_year <- record$MedlineCitation$Article$ArticleDate$Year
+      if (is.null(pub_year)) {
+        pub_year <- record$MedlineCitation$Article$Journal$JournalIssue$PubDate$Year
+      }
+      if (is.null(pub_year)) {
+        pub_year <- substr(record$MedlineCitation$Article$Journal$JournalIssue$PubDate$MedlineDate[[1]], 1, 4)
+      }
       title <- record$MedlineCitation$Article$ArticleTitle[[1]]
       journal <- record$MedlineCitation$Article$Journal$Title[[1]]
       
@@ -89,19 +95,6 @@ transform_data <- function(input_folder, output_folder) {
       # Grants
       grants = sapply(head(record$MedlineCitation$Article$GrantList,-1), function(x)return(x$GrantID[[1]]))
       
-      # Debugging output and problematic rows
-      # print(paste0("==== RECORD ", row_index, " ===="))
-      # print(pmid)
-      # print(doi)
-      # print(title)
-      # print(journal)
-      # print(pub_year)
-      # print(pub_types)
-      # print(mesh_object)
-      # print(grants)
-      # print(authors)
-      # print(author_affils)
-
       article = list(as.numeric(pmid),
                   toString(doi),
                   toString(title),
@@ -114,6 +107,11 @@ transform_data <- function(input_folder, output_folder) {
                   toJSON(unlist(author_affils)))
       article = lapply(article, function(x)if (x == "[]") return("") else return(x))
       
+      # Debugging output
+      if (verbose) {
+        print(article)
+      }
+      
       df[nrow(df)+1,] <- article
     }
 
@@ -121,5 +119,5 @@ transform_data <- function(input_folder, output_folder) {
     file_index <- file_index + 1
   }
   
-  write_file(toJSON(df), paste0(output_folder, "/cancer_data.json"))
+  write(toJSON(df), paste0(output_folder, "/cancer_data.json"))
 }

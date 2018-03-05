@@ -1,0 +1,7 @@
+facebook_sdk==2.0.0
+pandas==0.20.3
+tqdm==4.19.5
+numpy==1.13.3
+requests==2.18.4
+python_dateutil==2.6.1
+PyYAML==3.12

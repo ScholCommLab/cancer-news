@@ -11,3 +11,5 @@ data/
 */config\.cnf
 
 \.RData
+
+config\.yml

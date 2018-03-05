@@ -1,0 +1,13 @@
+general:
+  project: example
+
+pubmed:
+  query: >- # Insert valid PubMed query. https://www.ncbi.nlm.nih.gov/pubmed/advanced
+    (neoplasm [mesh] OR "neoplasm metastasis" [mesh] OR cancer*[tiab] OR malign*[tiab] OR neoplas*[tiab] OR oncolo*[tiab] OR metasta*[tiab] OR tumor*[tiab] OR tumour*[tiab])
+  filters: >-
+    ("research support, american recovery and reinvestment act"[Publication Type] OR "research support, n i h, extramural"[Publication Type] OR "research support, n i h, intramural"[Publication Type] OR "research support, non u s gov't"[Publication Type] OR "research support, u s gov't, non p h s"[Publication Type] OR "research support, u s gov't, p h s"[Publication Type] OR "research support, u s government"[Publication Type])
+  daterange: >-
+    ("2016/01/01"[Date - Publication] : "2016/12/31"[Date - Publication])
+
+altmetric:
+  key: 
