@@ -107,7 +107,7 @@ def create_mesh_hierarchy(mesh, mesh_terms, mesh_subterms):
     return lookups
 
 def create_dummies(pubmed, altmetrics):
-    out = pubmed[['doi','title','pub_year', 'mesh_terms', 'pub_types']]
+    out = pubmed[['doi','title','pub_year', 'mesh_terms', 'pub_types', 'journal']]
     out = pd.concat([out,
                      altmetrics['am_resp'],
                      pd.DataFrame(np.zeros((len(out), len(mesh_top13)), dtype=bool), index=out.index, columns=mesh_top13, dtype=bool),
@@ -117,35 +117,37 @@ def create_dummies(pubmed, altmetrics):
                     ],
                     axis=1, join_axes=[out.index])
 
-    for row in tqdm(out.itertuples(), total=len(out), desc="Creating Dummy Variables"):
-        # create dummies for mesh terms
+    def update_dummies(row):
         if pd.notnull(row.mesh_terms):
             for mt,mqs in row.mesh_terms.items():
                 for topterm, subterms in mesh_term_lookups.items():
                     if mt in subterms:
-                        out.loc[row.Index, topterm] = True
+                        row[topterm] = True
                     for mq in mqs:
                         if mq in mesh_qual:
-                            out.loc[row.Index, mq] = True
+                            row[mq] = True
 
         # create dummies for funding type
         if row.pub_types:
             for funding in funding_types:
                 if funding in row.pub_types:
-                    out.loc[row.Index, funding] = True
+                    row[funding] = True
 
         # count news mentions
         try:
-            out.loc[row.Index, 'news_count'] = row['am_resp']['counts']['news']['posts_count']
-            out.loc[row.Index, 'news_mention'] = True
+            row['news_count'] = row['am_resp']['counts']['news']['posts_count']
+            row['news_mention'] = True
 
             res = [tiers.loc[i].tiers for i in row['am_resp']['counts']['news']['unique_users']]
-            out.loc[row.Index, 'tier1'] = res.count("tier1")
-            out.loc[row.Index, 'tier2'] = res.count("tier2")
-            out.loc[row.Index, 'tier3'] = res.count("tier3")
-            out.loc[row.Index, 'tier4'] = res.count("tier4")
+            row['tier1'] = res.count("tier1")
+            row['tier2'] = res.count("tier2")
+            row['tier3'] = res.count("tier3")
+            row['tier4'] = res.count("tier4")
         except:
             None
+        return row
+    
+    out = out.progress_apply(update_dummies, axis=1)
 
     # convert bool to float columns
     out['us_gov_funding'] = out[us_gov_funding].apply(lambda x: x.any(), axis=1).astype(float)
@@ -205,7 +207,7 @@ def create_news_details(altmetric):
     })
 
 def write_results(path, dummies, news_details):
-    dummies[['doi', 'pub_year', 'title']].to_csv(path / "articles_metadata.csv")
+    dummies[['doi', 'pub_year', 'title', 'journal']].to_csv(path / "articles_metadata.csv")
     dummies[add_cols].to_csv(path / "articles_news_coverage.csv")
     dummies[mesh_top13].to_csv(path / "articles_mesh_term_dummies.csv")
     dummies[mesh_qual].to_csv(path / "articles_mesh_subterm_dummies.csv")
