@@ -5,16 +5,16 @@ Scripts needed to download dat and reproduce results.
 ## Requirements
 
 - R
-    - rentrez
-    - jsonlite
+  - rentrez
+  - jsonlite
 - Python 3.5
-    - See `requirements.txt`
+  - See `requirements.txt`
 
 ## Overview of repository
 
 ### Reproduce results
 
-In order to reproduce the data you need to copy `example_config.yml` to `config.yml` and insert your Altmetric key. 
+In order to reproduce the data you need to copy `example_config.yml` to `config.yml` and insert your Altmetric key.
 
 **1. Collect PubMed data**
 
