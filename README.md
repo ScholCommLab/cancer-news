@@ -1,4 +1,4 @@
-# Making headlines: An analysis of US government-funded cancer research mentioned in online media
+# Data from: Making headlines: An analysis of US government-funded cancer research mentioned in online media
 
 > This repository provides external input data, code, and analysis scripts to fully reproduce results.
 
@@ -19,7 +19,7 @@ The produced dataset consists of 6 different files found in `data/results`:
 
 ### Plots
 
-The folder `plots` contains figures and scripts used toRun the following  create them.
+The folder `plots` contains figures and scripts used to create them.
 
 ### External datasets
 
