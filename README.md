@@ -2,7 +2,7 @@
 
 > This repository provides external input data, code, and analysis scripts to fully reproduce results.
 
-
+[![DOI](https://zenodo.org/badge/108623455.svg)](https://zenodo.org/badge/latestdoi/108623455)
 
 ## Datasets
 
