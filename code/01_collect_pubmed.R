@@ -32,7 +32,7 @@ fetch_pubmed_data <- function(query, output_folder, batchsize) {
     json <- toJSON(xmlToList(xmlParse(recs)))
     write(json, file=paste0(output_folder, "records_",file_count,".json"))
     file_count <- file_count + 1
-    if (file_count == 2) {
+    if (file_count == number_loops) {
       return()
     }
   }
