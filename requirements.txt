@@ -1,7 +1,7 @@
 numpy==1.13.3
 pandas==0.20.3
 facebook_sdk.egg==info
-requests==2.18.4
+requests==2.20.1
 tqdm==4.20.0
 python_dateutil==2.7.3
 PyYAML==3.13
