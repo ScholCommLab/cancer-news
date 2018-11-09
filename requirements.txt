@@ -1,7 +1,6 @@
+pandas==0.23.3
+tqdm==4.26.0
+altmetric==1.0
 numpy==1.13.3
-pandas==0.20.3
-facebook_sdk.egg==info
-requests==2.20.1
-tqdm==4.20.0
-python_dateutil==2.7.3
+python_dateutil==2.7.5
 PyYAML==3.13
