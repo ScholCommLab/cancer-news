@@ -3,4 +3,4 @@ tqdm==4.26.0
 altmetric==1.0
 numpy==1.13.3
 python_dateutil==2.7.5
-PyYAML==3.13
+PyYAML==4.2b1
