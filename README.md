@@ -30,8 +30,8 @@ The folder `plots` contains figures and scripts used to create them.
 
 ## Reproduce results
 
-1. Clone the repository including submodules (note `--recurse-submodules`)
-    `git clone --recurse-submodules git@github.com:ScholCommLab/cancer-news.git`
+1. Clone the repository including submodules
+    `git clone git@github.com:ScholCommLab/cancer-news.git`
 2. Install requirements
     - Python
     `pip install -r requirements.txt`
