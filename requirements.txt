@@ -1,6 +1,6 @@
 pandas==0.23.3
 tqdm==4.26.0
 altmetric==1.0
-numpy==1.13.3
+numpy==1.22.0
 python_dateutil==2.7.5
 PyYAML==5.4
